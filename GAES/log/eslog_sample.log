@@ -1,0 +1,685 @@
+2021-02-18 10:46:31.571 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:信,龙,硼酸,250ml,1瓶,盒,用于,冲洗,伤口,消毒,硼酸,洗液
+2021-02-18 10:46:31.572 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:信,龙,硼酸,250ml,盒,用于,冲洗,伤口,消毒,硼酸,洗液
+2021-02-18 10:46:31.613 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[684.2837180000001, 715.275924]
+2021-02-18 10:46:31.613 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:46:43.982 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:发生,祛,与,止痒,生发,酊,祛,脂,生发,酊
+2021-02-18 10:46:43.982 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:发生,祛,与,止痒,生发,酊,祛,脂,生发,酊
+2021-02-18 10:46:44.018 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1353.8971279999996, 1353.8971279999996]
+2021-02-18 10:46:44.018 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:46:57.481 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:虎,牌,泰国,肩,颈,舒,虎,标,颈,肩,舒
+2021-02-18 10:46:57.481 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:虎,牌,泰国,肩,颈,舒,虎,标,颈,肩,舒
+2021-02-18 10:46:57.515 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1345.5234910000006, 1345.5234910000006]
+2021-02-18 10:46:57.516 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:47:15.126 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:原产地,发货,专柜,正品,保证,梅州,兴宁,特产,卫生丸,人参,人参,卫生丸
+2021-02-18 10:47:15.127 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:原产地,发货,专柜,正品,保证,梅州,兴宁,特产,卫生丸,人参,人参,卫生丸
+2021-02-18 10:47:15.170 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[767.582189, 767.582189]
+2021-02-18 10:47:15.171 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:47:38.367 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:2014年,的,精装,福,牌,500克,装,放到,现在,转给,需要,的,亲,们,胶,福,牌,阿胶,阿,胶片
+2021-02-18 10:47:38.368 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:2014年,的,精装,福,牌,500克,装,放到,现在,转给,需要,的,们,胶,福,牌,阿胶,阿,胶片
+2021-02-18 10:47:38.423 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[991.7566240000003, 1008.6635070000001]
+2021-02-18 10:47:38.423 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:48:06.104 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:印度,进口,助,勃,延时,增,硬,希,爱力,他,达,拉,非,片
+2021-02-18 10:48:06.105 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:印度,进口,助,勃,延时,增,硬,希,爱力,他,达,拉,非,片
+2021-02-18 10:48:06.161 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1443.2675730000003, 1443.2675730000003]
+2021-02-18 10:48:06.161 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:48:26.795 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:红霉素,眼,膏,和,草木犀,流,片,打包,刚,做完,手术,现在,不需,要了,转给,需,草木犀,流,浸液,片
+2021-02-18 10:48:26.796 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:红霉素,眼,膏,和,草木犀,流,片,打包,刚,做完,手术,现在,不需,要了,转给,需,草木犀,流,浸液,片
+2021-02-18 10:48:26.830 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1452.3041249999997, 1452.3041249999997]
+2021-02-18 10:48:26.831 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:48:54.670 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:全新,日本,带回,乐,敦,狮王,小林,canmake,海贼王,新乐,敦
+2021-02-18 10:48:54.672 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:全新,日本,带回,乐,敦,狮王,小林,canmake,海贼王,新乐,敦
+2021-02-18 10:48:54.716 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[768.1675830000003, 768.1675830000003]
+2021-02-18 10:48:54.717 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:49:20.634 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:盐酸,特,比,萘,芬,凝胶,盐酸,特,比,萘,芬,凝胶
+2021-02-18 10:49:20.634 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:光,日本,牌,送,福,邮,米,痛,标,制药,药,液,地,原装,眼药水,未,喷,斯,生理,布,官,美,祛,安,周,九,酸痛,250g,油,消炎,注射液,鹏,型,艾,林,lycee,滴,宝宝,肌肉,星,生发,发,卡,一包,溶液,开封,不,爱力,感冒,儿童,需要,清洗,转,发货,版,内,3盒,舒缓,搽,一买,腰疼,咳嗽,转卖,7,疲劳,洗液,胶块,氯,腰椎间盘,购,铜片,babix,补,肤,山东,回收,软胶囊,hisamitsu,日期,仑,100ml,池,要,muhi,益,药房,何,n,必备,140枚,包装,拆,10ml,雾化,效果,肩膀,阴道,咳,正,尼,施,螨,孕,妆,肾,品,天然,顺,养,手肘,注射,台湾,微,胺,特灵,价格,四合,藿香,崔,美国,tp,斑秃,天,裸,缓释,托,还有,錠,牛仔,防脱发,复方,坦,5瓶,粉色,买了,荷尔蒙,背,回,治,港,手,支持,霉素,咨询,塞,补充,清宫,给,秋,婴幼儿,250,服,水仙,麻,一袋,包包,于,药盒,磷,瓶装,沈阳,硝酸,瘦身,lrm,yao,多维,元素,肘关节,硝苯地平,医,官方,0,蟲,产后,硫,湿,用水,霉菌性,酯,壬,庆大霉素,硝,ン,擦,笞,保养,调情,塩,帖,血,家里,袋,定制,线,彼,减,云南,品质,一支,最新,痘痘,石,怀孕,链接,40mg,纤维素,腿疼,控释,氧,助,分子量,瘦,解,护肤,24片,氮,适,惠,硬,祖师,硫酸铜,漱口,插,菌素,步长,国,抑郁症,妥,时,潮,老人,99,老虎,黑色,做,看,蛋,信,脚气,转手,注射用,胰,60片,本版,孩子,先,牛,痔,盒子,手脚,抑,毛边,30瓶,夏季,达因,早,角膜,含量,处方,打包,温热,可溶性,跟贴,养血,号,亲,2包,高潮,活动,v,消肿,袋装,玛,子,穴位,筋腱,楚,爽,40粒,一共,京,晒,特效,0.1,辛,至,没有,镁,缓,15,昔,脸,批发,冲洗,儿科,鸡鸭,龈,5支,七片,房事,一粒,雅,运费,珍贵,50ml,新品,125g,三唑仑,详情,代谢,发票,延时,邦,间,ア,冬季,都是,纽,飞,京东,路,国产,八珍,大姨妈,礼品,2ml,直接,家庭,育,真,辰,都有,海外,欧,退,分,2019年,源,1927三,汗,宝贝,吃不完,厦门,根,k,摧,120,买来,桐,除湿,非标,热敷,到货,一起,需,射,药丸,送礼,冷敷,10片,猫咪,伸,纹眉,醒酒,适合,鸟,佛,草药,门,老客户,bayer,预,水晶,杜,酰,养生,所以,培,xin,灵丹,佳品,通便,极速,眼药膏,鱼肝油,今年,标牌,广州,辅仁,红白,邮费,一次性,永,比多,公,给我,2支,寒腿,筒,痹,姨妈,进,患者,回购,洛阳,百草,甲硝唑,宣传,36粒,鲸,感兴趣,腿脚,叶,恶搞,100元,班,屈臣氏,江浙沪,冲剂,洗面奶,羊,手术,酚,乖乖,法师,春,尿,鸭,祛风,皮夹,废料,氨基葡萄糖,当时,超薄,从优,瓦,樂,听话,癖,挂,干燥,赠送,生物,滋,peg,4瓶,ldquo,术后,自购,自提,女装,一套,rhoto,jiu,日日,磨砂,gai,组人,腹胀,泉,珍,9片,迷惑,另有,镀金,甩卖,节,真的,同城,雨伞,怡,打开,ddisa,2020,哺乳,埃及,适用于,增生,限定版,被,西苑,10粒,100毫升,牛皮癣,哌,妇幼,50毫升,全力,14片,出手,诚,逍遥,季,粉扑,乖巧,999,50元,凉,虚,胆碱钠,焦虑,浸,性用品,胸腺肽,转出,60g,两包,异,肛交,国药准字,贵州,黄金,千,用款,牛黄丸,凡,服用,问题,8盒,颈椎病,视,巴金,靶向,经典,取,解郁,车,技术,白云,靠手,罐,便秘,晕车,一味,逗,肛,禽,洋地黄,腾,少女,36片,测,贫血,治脱发,流水,成,零号,印花,刷,肾炎,欲望都市,折,优质,衍生,骨质,藓,senokot,腰肌劳损,臀,舒服,精选,出口,去年,粘,雾气,食,坤,100克,华山医院,安心,两只,年老,验,无效,藏药,益智,分离,疾病,红景天,家里人,天亮,莱,都说,箱,造,spray,芷,情人节,硅胶,特明,下,眼罩,佑,芦,暴,301,蒂,抗过敏,愈,常用,噻,耗材,铝合金,卫生丸,附属,臀部,发炎,3克,风寒,店主,库存,求,5发,会,过氧,个月,脱敏,400g,byetta,zhu,硬脂酸,实惠,油膏,延缓,果盒,胡子,手拿,疮,含片,焊条,转了,锐,dermovate,杆菌,员工,bufferin,录制,食欲,脸部,电脑,神农,50g+60g,85g+30g,宿舍,全网,外用药,峰,甲基,周宁,加强型,骨化,别人,大人,长胡子,benzalkonium,二甲双胍,妇幼保健院,铋,眩晕,奥美,细胞,衍,星加坡,材,造影剂,14枚,痕,4片,全球,5mg,擦拭,七喜,120粒,放心,去除,任,蔗糖,zurig,最低,有意,卷,季节性,梅,茸,润肠,秀,多多,canmake,300ml,hisamitsu5.0,按,蒸汽,艾迪,人气,一体,不吃,人血白蛋白,80元,深蓝,pro,沐浴露,圆,老婆,找,模糊,开瓶器,干眼症,高尿酸,cycle,内有,自营,形,柔,盖平,2ml10,40cm,河,红眼,口味,200g,c-cube,4g,狗眼,暗疮,任意,15支,用不上,球,75mg,系列产品,gao,麦片,吃药,髯,蛇蝎美人,人民医院,复合,山梨,tai,试剂盒,拉肚子,传统,马克,阳具,光光,华山,飞人,儿子,体质,来了,2023年,抱,180粒,杆,湿气,后跟,氨基,第二,每周,肾衰,6袋,批,natco,睫毛膏,示范,所有,夹,湘,zurig80,三精,然,本来,后来,暖和,45元,90片,散结,卧,88,tong,铁拐李,香气,东大,进补,愈合,水光,力量,0.2g,瘟,身边,霖,入药,蚕,豆,48粒,改,消化,55包,药学,偏远,丹参酮,荷兰,萬,专门,补骨脂,换新,小刀,菴,120元,润肤乳,澜,72粒,简装,200元,波士,80包,蕲,regrowth,朝贡,原版,低头,代言,姑娘,异味,手足癣,戊酸,advil,嘧,type,柯,漂,详细,莓,小苏打,幼儿,ロ,嘌呤,大法,思考,富裕,加长,23,满意,绞股蓝,1499,梗,细菌,抗氧化,淇,冠心病,不同,保住,抽,洗发,正牌,loceryl,qi,三圈,更年,裂,罗素,饰,棕色,棕,qw,水钻,龙华,职业,益寿,癀,拍照,开出,勾,腰椎间盘突出,娜,轮,留学,您,斯安,优惠活动,没开,内酯,针管,女红,别的,睾丸素,酒精,买过,華,大杂烩,要买,娥,橘,抽屉,犀牛,照片,九片,精液,液化,可提供,座,用量,推迟,10+1,谁要,单价,障碍,出让,保正,收货,灰白,一条,心血管,批发价,28粒,脚痛,小伙伴,三袋,特,比,萘,芬,凝胶,特,比,萘,芬,凝胶
+2021-02-18 10:49:20.796 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1026.819032, 1065.964854]
+2021-02-18 10:49:20.797 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:50:01.532 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:全新,伊,可,新,本地,连锁,药店,入,多余,需要,的,联系,维生素,ad,滴剂,伊,可,新
+2021-02-18 10:50:01.533 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:全新,伊,可,新,本地,连锁,入,多余,需要,的,联系,维生素,ad,滴剂,伊,可,新
+2021-02-18 10:50:01.580 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1377.6254790000005, 1419.6341800000005]
+2021-02-18 10:50:01.580 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:50:44.082 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:阿胶,500克,福,牌,阿胶,阿,胶片
+2021-02-18 10:50:44.083 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:阿胶,500克,福,牌,阿胶,阿,胶片
+2021-02-18 10:50:44.125 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[706.9191809999999, 706.9191809999999]
+2021-02-18 10:50:44.126 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:51:19.871 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:正宗,东阿,阿胶,天冷,了,补补,身子,福,牌,阿胶,阿,胶片
+2021-02-18 10:51:19.871 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:正宗,东阿,阿胶,天冷,了,补补,身子,福,牌,阿胶,阿,胶片
+2021-02-18 10:51:19.916 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[810.3860140000002, 810.3860140000002]
+2021-02-18 10:51:19.917 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:51:47.409 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:日本,久,膏,贴,损伤,缓解,原装,颈,肩,修复,脚跟,腰腿疼,坐骨,手指,足跟,痛,久,光,镇痛,贴
+2021-02-18 10:51:47.409 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:斯,腿,进口,蛇,起,两,明,万,治疗,海盐,2盒,0.9,自己,氧化锌,粒,施,野,崔,碱,黄体酮,泪液,颗,品牌,一袋,白色,硫,腰间,硝,rush,原价,家里,硫磺,浸液,到期,鸡,精灵,黑色,护眼,二包,真品,身体,消毒,研究所,人流,客服,日用,温和,ア,台,lion,1927三,草药,儿童医院,m,护肤品,闲,道,制作,洗面奶,30克,古,自提,适用于,发烧,良心,系,黄金,抗真菌,塑料,连,咀嚼,主治,两支,买一送一,别,扩,肾宝,卡片,商务,带走,蒂,求,36,左右,大帝,锐,健儿,石斛,食欲,85g+30g,啥,娇,十包,迈,痰,300ml,沐浴露,郑州,中成药,博士伦,枕,几乎,留,盘腿,新店,姜,惊风,taiyao,老妈,云母片,advil,钾,网上,不同,外伤,三支,胶布,十一,留学,大连,加油站,cool40&alpha,日本,久,膏,贴,损伤,缓解,原装,颈,肩,修复,脚跟,腰腿疼,坐骨,手指,足跟,痛,久,镇痛,贴
+2021-02-18 10:51:47.494 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1072.6209290000002, 1079.48908]
+2021-02-18 10:51:47.495 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:52:12.386 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:贴足,肩,正品,膝,肘,3一三,共,膏,贴,缓解,扭伤,颈椎,100mg,疼痛,膝盖,酸,跌,打,久,光,镇痛,贴
+2021-02-18 10:52:12.388 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:贴足,肩,正品,膝,肘,3一三,共,膏,贴,缓解,扭伤,颈椎,100mg,疼痛,膝盖,酸,跌,打,久,光,镇痛,贴
+2021-02-18 10:52:12.454 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1282.130252, 1282.130252]
+2021-02-18 10:52:12.454 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:52:33.428 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:圣城,牌,硬脂酸,镁,十八,酸,镁
+2021-02-18 10:52:33.429 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:圣城,牌,硬脂酸,镁,十八,酸,镁
+2021-02-18 10:52:33.463 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[737.8131910000002, 737.8131910000002]
+2021-02-18 10:52:33.464 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:52:50.453 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:东阿,16-17,批次,厂家直销,东阿,阿胶
+2021-02-18 10:52:50.454 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:光,膏,米,d,绣,大,生理,素,宝宝,女,肌肉,鹿,胀气,同仁堂,我,洛,济公,炎,一步,脾,自用,50,葫芦,贴布,跌打损伤,小红,グ,最新,再,大盒,情趣,步长,狗,信,首,润滑剂,补肾,验货,拼,喜,半月板,药粉,阵痛,派,活动,晒,1岁,镁,客服,优惠券,房事,ejiao,邦,直接,尘,纸盒,络,1927三,为,一起,猫咪,小包装,压,西沙,佳品,焕,80,標,嗣,日亚,宣传,废料,樂,盘片,学生,高位,埃及,o,手机,鲁,绒,东京,验证,不适,喝,增长,4月,125克,3月,套餐,犀,避孕药,能用,藓,我家,80枚,店主,加拿大,36,它,wan,转了,就是,锐,神农,渗透,要走,远,药油,降压,14枚,只用了,4片,服装,七喜,日常,任,星辰,c-cube,任意,钠盐,果胶,惊,茧,尿囊素,胶固,高捷,瘟,紫河车,阔佬,20年,大名鼎鼎,代言,偏远地区,类风湿性,烯,有用,携带,5克,理性,0.33g,差价,乙酰,减轻,娥,犀牛,缺,拼接,保质,排队,批发价,东阿,16-17,批次,东阿,阿胶
+2021-02-18 10:52:50.516 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[410.50392399999987, 464.46793800000006]
+2021-02-18 10:52:50.517 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:53:14.245 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:日用,本土,镇痛,贴,巴,斯,贴,盒装,140枚,现货,秒,发,久,光,镇痛,贴
+2021-02-18 10:53:14.245 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:阿胶,牌,肩,颈,标,滴剂,海,尔,液,感,克,泰国,达,蚂蚁,霜,大,小红花,万金油,隆,菲,安,周,鹏,艾,骨,膝盖,扭伤,同,药膏,皮,1,洗眼,松,打,开封,式,感冒,60ml,洗脸,转,保证,如,和,猫,甲,蓝,糖,来,防,转卖,伦,肽,购买,补,肤,减肥药,山东,软胶囊,8ml,洛,肩部,吉,瞳,老,必备,舍,士,膝,氢,产品,泰,苯,吡,正,在,500,浓缩,限定,经,一个,氨,价格,崔,碱,入,500克,每,terramycin,睾酮,跟,清凉油,伤口,粉色,糠,港,红霉素,支持,霉素,咨询,太和,悦,50,给,婴幼儿,增,麻,消炎剂,菌,两瓶,块,专柜,停,沈阳,yao,超,正气水,肝,白色,水洗,七夕,第,10g,阿里,腰腿疼,效,从,乳酸,香水,硝,ラ,笞,乌,生命,调情,带回来,防伪,乌梢蛇,云南,用过,老中医,痘痘,空勤,保湿,器,早孕,瘦,水产,商品名,酸钠,眼睛,30g,缬,合作,活络,真皮,硬,伏,祖师,这个,用于,呋,敷贴,发热,紫竹,老人,洗剂,妈,杀菌,药用,糖浆,狗,只,蝮,信,武汉,转手,诺华,玻璃,蚂,aziderm20,canesten,真品,佳,孕期,长裙,手脚,身体,胆,孕酮,b,列,u,派,沙拉,补气血,生产日期,十盒,月,伤风,爽身粉,激情,冰,手指,综合,胃药,协和,硬币,瘙痒,蜜,中药,5包,氢化,高原,一粒,运费,50ml,泡,陈李济,恢复,邦,100粒,雌激素,克隆,十八,rtp,京东,国产,軟,大姨妈,家庭,时候,海外,纸盒,病,多款,腺苷,退,源,太极,供应,合成,咀,到货,型号,gay,特效药,补水,曼秀雷敦,消肿止痛,鸟,钱夹,东西,享,西沙,万金,冬,xin,情趣用品,通便,葆,爱乐,健身,易,标准,红白,小票,以下,家中,给我,茶杯,俗称,筒,回国,行,面霜,洛阳,百草,宣传,整,促进,黄色,新霉素,感兴趣,痔疮,2十,清热,可选,江浙沪,紫珠,草本,万能,腹,针对,肾上腺素,料,都可以,眉毛,金霉素,收购,查,运动,三层,赠送,腺,一片,本镇,灣,ldquo,120片,10月,学生,杜鹃花,自提,5月,好到,劳累,大阪,20元,批号,10元,伐,手提包,艺,连衣裙,rdquo,一颗,券,驱,兔,西藏,乳液,诚,铁皮,疤痕,淳,胸腺肽,千,用款,很多,服用,20mg,颈椎病,巴金,日货,技术,春季,化学试剂,出差,可以用,木薯,逗,洋地黄,咀嚼,苦,尚,出品,测,角,正规渠道,41,术,hydrochloride,治脱发,regpara,可交换,避孕药,听,金水,肾炎,能用,轻巧,箱包,鳄鱼皮,补铁,11月,两支,60包,红瓶,催化剂,出口,马来,勃起,brintellix,广东,胀,救星,发情期,试,存,仙女,都说,母片,郵,苄,14粒,特明,屁屁,医保卡,植,铅,滋养,暴,商务,蒂,润湿,宗,原产,抗过敏,氧化,礼,8片,呕吐,15年,牙周炎,mm,100包,兔子,过氧,腰背痛,日用品,君,购物,乌发,黄道,同济,镂,dermovate,杆菌,发现,0.5x60,西施,4包,脸部,85g+30g,blanc,ying,金刚,吃不了,老年,真假,别人,ー,大人,patches,只要,免税店,二甲双胍,采,汉,央视,六盒,姑嫂,超强,几,降压,14枚,只用了,店铺,超短,5mg,擦拭,湿润,冠,蔗糖,zurig,代发,张,或者,有意,娃娃,孢,螺,胜,老店,僵硬,对照,霸王,300ml,星辰,人血白蛋白,夏天,药箱,青年,今天,眉纹,也是,离子,现价,但,17年,积,1粒,28片,赠品,藤黄,宣传司,联,萎缩,25mg,9袋,软化,头孢,国标,香草,拉肚子,传统,新年,sundrug,带了,好多,逼,华山,抱,电子,枕,石药,1-,呼吸,男同志,提纯,bbbsa,均可,成分,枫,附近,本来,后来,不懂,散结,备用,tong,铁片,润肤,個,新店,招,东大,用不了,医药公司,开药,國,白雾,翻译,顶好,次,药学,偏远,丹参酮,专门,交,资质,左藤,极品,透析,交易,一个月,无限,五味子,退款,见图,鬼臼,糜烂,咽炎,刚从,当面交易,消食,密封,朝贡,这些,臣,8粒,pradaxa,506,advil,啶,小苏打,胸腺,景,回头率,杠杠,交换,富裕,睡不着,另外,有点,网上,也有,一样,字号,68,45包,空运,裂,新买,晕船,5克,脚臭,随便,5kg,贴纸,巾,开出,刺,参茸,康宁,优惠活动,鸽子,1千粒,三件套,摔伤,睾丸素,肌肉疲劳,酒精,浸泡,保存,皮痒,娥,格子,吃过,白带,mylan,boots,葵花,排便,爸妈,400克,拼接,大片,西班牙,超高,十瓶,0.1mol,三袋,日用,本土,镇痛,贴,巴,贴,盒装,发,久,光,镇痛,贴
+2021-02-18 10:53:14.418 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1074.9574010000001, 1075.174854]
+2021-02-18 10:53:14.419 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:53:46.453 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:过敏性,鼻炎,喷雾,福,牌,阿胶,阿,胶片
+2021-02-18 10:53:46.455 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:鼻炎,喷雾,福,牌,阿胶,阿,胶片
+2021-02-18 10:53:46.492 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[399.46862300000015, 489.96570800000006]
+2021-02-18 10:53:46.493 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:54:05.884 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:澳门,购入,保婴,单,娃,大,了,没,吃完,转给,有,需要,的,宝宝,余,仁,生,保婴,丹
+2021-02-18 10:54:05.885 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:膏,阿,全新,颈,康,鼻,剂,生理盐水,关节,非,酮,盐酸,胶,十,绣,未,新,三,用,一盒,粉,伊,散,隐形眼镜,2,医院,鹏,闲置,明,拆封,皮,250克,发,永久,爱力,三盒,丁,新款,隐形,女士,糖酸,葡萄,外用,药品,购买,战士,坐骨,2盒,0.9,孕妇,栓,胎,黄,酞,模范,男,全蝎,肉痛,葡萄糖,muhi,补钙,日,碳酸,醇,士,氢,核,效果,等,1号,崔,tp,复,软,缓释,套装,贴膏药,防脱发,复方,睾酮,新版,清凉油,损伤,镧,突出,妇科,幻,给,包包,同志,桂,盘,腔,肠绞痛,绿,追风,干,白色,果,第,阿里,硫,湿,萘,cyclogest,家,柏,迷,t,生命,s,一支,痘痘,人工,胳膊,氧,用了,钙片,硬,24,20瓶,的人,杀菌,黑色,地黄丸,首,润滑剂,通气,孩子,二包,牛,真品,磺酸,姆,安全,药粉,食品级,对,跟贴,女服,小林,腹泻,盲文,含,止痛药,芩,折叠,小米,月,1岁,50粒,冰,已,肌腱,批发,儿科,色,客服,苗,雅,50ml,30片,新生儿,1支,纽,凝,200,感冒药,已经,萄,大姨妈,秒,月经,育,参天,lion,口腔,催,指定,根,胞,维生,网球肘,解酒,健脑,不是,冷敷,拿,辅助,烫伤,纹眉,生化,i,囤货,今年,涂,老君,家中,精品,新米,修正,dhc,唇膏,康复,購,进,女式,仙儿,回购,喘,初,收缩,不用,饿,限量版,羊,限量,认准,鸭,祛风,限时,食品,乳酶,受,结膜,胶丸,0.5g,降压药,腺,太阳,peg,毫升,自提,p,5月,rhoto,jiu,买回来,高纯度,拒绝,中国,免疫力,gai,腹胀,45,多元,苏家屯,24tablets,修护,10元,甩卖,霉菌,皮皮,打开,协和医院,哺乳,牛皮癣,19年,牙龈,全力,手机,出手,诚,神奇,羧,铁皮,临期,60g,头皮,东京,颈椎病,质量,不适,指南,0#,快递,测试,们,白云,抗真菌,大量,青少年,询,苦,消毒液,着,柑橘,36片,3天,铑,爱心,骨质,60包,非常,雾气,买一送一,两只,防腐剂,原料药,扩,等等,益智,条,h,茵,月经不调,天亮,肾宝,但是,母片,灯,重组,情人节,卡片,特明,5.0,买一,85g+60g,芦,大力,40a,工作,细,北医,氧化,未来,上火,胰岛,夜光,眼脸,试管,恒,胡子,龄,三件,焊条,厚,手链,架,保安,3粒,不能,杆菌,饱腹,4包,85g+30g,ying,500m,加强型,二手,名字,提取物,远,一切,8瓶,娇,6支,姐姐,海报,里面,任,梅,澳大利亚,养胃,4s,保证质量,星辰,征,蒸汽,嬰,药箱,简单,老婆,形,俩,万艾可,狗眼,油脂,靠,水粉,袋子,15支,25mg,中成药,隔离,人民医院,新年,每包,一下,带了,逼,华山,2023年,180粒,喝了,1-,开始,500ml5,很香,提纯,0.34g,完整,醌,生长因子,三精,卧,血粉,遮,引进,脊椎,eve,麻木,呀,衰,润肤乳,同学,澜,症状,72粒,简装,80包,蕲,西安,姗,草包,老妈,衡,类风湿性,冻,想想,景,订制,bb,有用,不留,2袋,睡袍,也有,冠心病,动,桌面,頸,95,罗素,375克,2012年,理性,帮助,男朋友,拍照,擁,一滴,老百姓,武器,aaa,保存,抽屉,犀牛,10+1,15片,醋,保质,五瓶,仲,小伙伴,购入,保婴,单,娃,大,了,没,吃完,转给,有,需要,的,余,仁,保婴,丹
+2021-02-18 10:54:06.015 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[580.1597519999999, 775.3566349999999]
+2021-02-18 10:54:06.015 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:54:29.883 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:技术,真品,c,女,话,dt,钱包,药,g,盒,水,l,款,9,钱包,情,gg,人,节,粉色,兴奋,g,简约,r,玩,海,乐神
+2021-02-18 10:54:29.884 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:技术,真品,c,女,话,dt,钱包,药,g,盒,水,l,款,9,钱包,情,gg,人,节,粉色,兴奋,g,简约,r,玩,海,乐神
+2021-02-18 10:54:29.928 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[2704.0539289999997, 2704.0539289999997]
+2021-02-18 10:54:29.929 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:54:49.588 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:朗,迪,补钙,的,碳酸钙,d3,片,calcium,carbonate,vitamin,d3,tablets
+2021-02-18 10:54:49.589 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:朗,迪,补钙,的,碳酸钙,d3,片,calcium,carbonate,vitamin,d3,tablets
+2021-02-18 10:54:49.628 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1506.9740439999991, 1506.9740439999991]
+2021-02-18 10:54:49.628 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:55:05.785 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:妇,安,酮,cyclogest,天然,黄体酮,栓,cyclogest
+2021-02-18 10:55:05.785 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:妇,安,酮,cyclogest,天然,黄体酮,栓,cyclogest
+2021-02-18 10:55:05.820 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1556.987537, 1556.987537]
+2021-02-18 10:55:05.821 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:55:28.111 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:胶东,一共,四盒,800,一盒,东阿,阿胶
+2021-02-18 10:55:28.111 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:胶东,四盒,800,一盒,东阿,阿胶
+2021-02-18 10:55:28.145 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[489.8559615, 502.7814384999999]
+2021-02-18 10:55:28.145 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:55:47.069 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:日本,正品,原装,进口,nazal,专,佐藤,鼻炎,喷,剂,喷雾,鼻,宁,蓝色,sato,水,30ml0,佐藤,制药,nazal,鼻炎,喷雾剂
+2021-02-18 10:55:47.069 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:日本,正品,原装,进口,nazal,专,佐藤,鼻炎,喷,剂,喷雾,鼻,宁,蓝色,sato,水,30ml0,佐藤,制药,nazal,鼻炎,喷雾剂
+2021-02-18 10:55:47.116 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1975.5541790000002, 1975.5541790000002]
+2021-02-18 10:55:47.117 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:56:01.254 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:鼻炎,药水,日本,液体,创,可,贴,佐藤,制药,nazal,鼻炎,喷雾剂
+2021-02-18 10:56:01.254 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:久,的,丸,维生素,丹,贴膏,喷雾,筋骨,生理,官,医用,巴,装,粉,伊,堂,唑,鹿血,扭伤,dc,有,拉,凝胶,1,疼,一包,气雾剂,包退,出,咀嚼片,清洗,德国,新款,和,购入,拜,小粉,低价,耳,我,0.9,栓,田,人,双,黄,钯,好,必备,通用,特强,士,吃,膝,研,新加坡,国内,在,500,神器,华,脱,妆,婷,藿香,性,都,体,防脱发,糠,浆,背,支持,男士,太和,卖,展,现,盘,麦,物流,绿,便携,优惠,岁,官方,第,约会,痛风,c3,丽,筋肉,柏,保健,ン,レ,前列,肿痛,塩,帖,家里,1瓶,保暖,万宁,减肥,定制,蝎,最新,量,控释,氧,配,悬,鱼,啊,本人,再,猪肚,缬,真皮,鸡,明显,妥,急慢性,莎,左,毒,无菌,瘀,补肾,蚂,一字,精华,孕期,服务,手脚,5g,浓度,达因,角膜,嘧啶,处方,想,高价,及,哪里,福音,筋腱,ve,户外,爽身粉,母,钱,冰,15ml,昔,新品,代谢,症,邦,ア,零钱,100ml250ml500ml,肩周炎,京东,感冒药,散装,秒,容,6盒,6+3,达克宁,参天,催,预约,钻,零食,汗,根,21,抑郁,齐,过,40瓶,水溶性,aa,5号,亲自,塑,足底,得,木,标准,脚跟,邮费,公,边,下单,姨妈,进,女式,患者,真菌,250毫升,500毫升,整,淘宝,促进,水杯,一些,特色,眠,限量版,羊,诺尔,1袋,显,伟,30克,撕裂,查,6月,三九,仔,滋,垫,睡觉,5月,磨砂,藥,全程,搓,20元,光大,金银,妹,蒙,功效,直发,10包,增生,调节,淳,糯米,半价,念珠菌,益生菌,莫代尔,关,凡,3片,之夜,五味,验证,经典,日货,十支,肛,出血,止痛片,套餐,装药,效期,可交换,叶酸片,多功能,中药材,放,亚胺,石膏,30元,轻巧,火,senokot,腰肌劳损,2022年,ems,淡化,己,粘,食,刺绣,别,工具,送人,无效,等等,整箱,呼吸道,益母草,膝关节,中华,每瓶,hui,主,疏松,40a,抗病毒,国宝,制剂,25周年,又,臀部,饲料,15年,过氧,赖,腰背痛,日用品,试管,君,面,同济,齐全,胡子,手拿,宠物用品,润肤霜,全网,试用装,不多,国外,500m,海参,3d,越,眼影,无极,多糖,自然,3个,全球,湿布,七喜,海报,非常好,extra,张,超市,以内,有意,梅,提神,内膜,2017年,僵硬,58,霸王,梦,甘露,征,蒸汽,艾迪,人血白蛋白,clinic,老婆,三金,也是,买入,但,目前,2,10,售出,臌,200g,富,耐用,均,紫色,发光,8米,髯,两袋,血栓,同事,18,水泡,大家,来了,周边,70包,哮喘,9g,知识,几乎,bbbsa,胱氨酸,冬虫夏草,金色,防护,不需要,湘,不懂,90片,期,铁片,空军,血粉,一十,身边,七宝,遮,咖,荷,消化,荷兰,12盒,五味子,晕,研制,海水,澜,早期,见图,片剂,散热,糜烂,支气管炎,11号,大名鼎鼎,机,消食,苓,橙,手足癣,血小板,搬家,漂,bvcxfd,提前,ロ,80片,也有,青山,一样,视力,那里,keifei,吃剩,罗素,250100,葡糖,记录,移植,龙华,日式,社,颇得,没开,鸽子,1千粒,怕,武器,燥湿,天士力,醒,可提供,爸妈,用量,拼接,出让,栏,28粒,鼻炎,日本,创,贴,佐藤,制药,nazal,鼻炎,喷雾剂
+2021-02-18 10:56:01.369 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[908.077513, 1137.2199580000001]
+2021-02-18 10:56:01.370 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:56:24.640 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:100ml,20瓶,纹,绣,半,永久,材料,生理,海盐,水洗,隐形,眼,洗,消炎,医用,盐水,500,缓冲,生理盐水
+2021-02-18 10:56:24.641 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:100ml,20瓶,纹,绣,半,永久,材料,生理,海盐,水洗,隐形,眼,洗,消炎,医用,盐水,500,缓冲,生理盐水
+2021-02-18 10:56:24.692 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1766.8481729999999, 1766.8481729999999]
+2021-02-18 10:56:24.693 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:56:47.779 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:官,网,正品,蚂蚁,专柜,蛇蝎,包,邮,浓缩,丸,五,送,二,十,送,四,原,厂,蚂蚁,蛇蝎,丸
+2021-02-18 10:56:47.780 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:官,网,正品,蚂蚁,专柜,蛇蝎,包,邮,浓缩,丸,五,送,二,十,送,四,原,厂,蚂蚁,蛇蝎,丸
+2021-02-18 10:56:47.834 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1981.2075860000002, 1981.2075860000002]
+2021-02-18 10:56:47.835 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:57:02.586 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:余,仁,生,婴,香港,购入,余,仁,生,保婴,丹
+2021-02-18 10:57:02.586 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:余,仁,生,婴,购入,余,仁,生,保婴,丹
+2021-02-18 10:57:02.621 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[812.975852, 1066.2702880000002]
+2021-02-18 10:57:02.622 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:57:22.266 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:香港,代购,原装,正品,何,济公,退热,牙痛,头痛,散装,24,小包装,退热,何,济公,止痛,退热,散
+2021-02-18 10:57:22.267 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:香港,代购,原装,正品,何,济公,退热,牙痛,头痛,散装,24,小包装,退热,何,济公,止痛,退热,散
+2021-02-18 10:57:22.340 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[2924.034271, 2924.034271]
+2021-02-18 10:57:22.341 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:57:35.886 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:厦门,肚,俗称,猪肚,粉,生产日期,新鲜,包,邮,每天,都,发货,肚,液,散,闽南话,又叫,猪肚,粉
+2021-02-18 10:57:35.886 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:厦门,肚,俗称,猪肚,粉,生产日期,新鲜,包,邮,每天,都,发货,肚,液,散,闽南话,又叫,猪肚,粉
+2021-02-18 10:57:35.925 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[3190.7693199999985, 3190.7693199999985]
+2021-02-18 10:57:35.925 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:57:52.709 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:辉瑞,眼药膏,狗狗,眼药膏,猫咪,用,宠物,眼,去,泪痕,眼屎,猫,犬,通用,眼睛,消炎,辉瑞,terramycin,犬,猫,通用,抗菌,眼,膏
+2021-02-18 10:57:52.709 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:辉瑞,眼药膏,狗狗,眼药膏,猫咪,用,宠物,眼,去,泪痕,眼屎,猫,犬,通用,眼睛,消炎,辉瑞,terramycin,犬,猫,通用,抗菌,眼,膏
+2021-02-18 10:57:52.745 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[2843.126288000001, 2843.126288000001]
+2021-02-18 10:57:52.746 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:58:11.594 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:非,柳,屋,霸王,米,诺,地,地,尔,酊,生发水,防脱发,斑秃,雄性,脱发,蔓,迪
+2021-02-18 10:58:11.595 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:非,柳,屋,霸王,米,诺,地,地,酊,生发水,防脱发,斑秃,雄性,脱发,蔓,迪
+2021-02-18 10:58:11.647 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[412.93333099999995, 550.344652]
+2021-02-18 10:58:11.648 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:58:32.558 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:恩,必,普,丁,苯,酞,软胶囊
+2021-02-18 10:58:32.558 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:恩,必,普,丁,苯,酞,软胶囊
+2021-02-18 10:58:32.606 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1076.5997630000002, 1076.5997630000002]
+2021-02-18 10:58:32.606 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:58:51.085 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:太极,天,胶,阿胶,250克,福,牌,阿胶,阿,胶片
+2021-02-18 10:58:51.086 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:太极,天,胶,阿胶,250克,福,牌,阿胶,阿,胶片
+2021-02-18 10:58:51.135 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[902.2300380000001, 902.2300380000001]
+2021-02-18 10:58:51.136 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:59:05.939 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:日本,跌打损伤,膏,贴,冷,感,筋骨,腰背,腿,贴膏,透气,镇痛,膏,九,光,护肩,颈,足,跟贴,久,光,镇痛,贴
+2021-02-18 10:59:05.940 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:日本,跌打损伤,膏,贴,冷,感,筋骨,腰背,腿,贴膏,透气,镇痛,膏,九,光,护肩,颈,足,跟贴,久,光,镇痛,贴
+2021-02-18 10:59:05.996 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1218.374433, 1218.374433]
+2021-02-18 10:59:05.997 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:59:24.406 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:香港,采购,德国,正品,新方,蛇,标,辣椒,膏,胶布,辣椒,膏药,贴,11.5cm,18cm,扭伤,久,光,镇痛,贴
+2021-02-18 10:59:24.406 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:香港,采购,德国,正品,新方,蛇,标,辣椒,膏,胶布,辣椒,膏药,贴,11.5cm,18cm,扭伤,久,光,镇痛,贴
+2021-02-18 10:59:24.472 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[761.37469, 761.37469]
+2021-02-18 10:59:24.473 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:59:41.297 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:婴儿,屁屁,膏,硼酸,软膏
+2021-02-18 10:59:41.298 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:屁屁,膏,硼酸,软膏
+2021-02-18 10:59:41.337 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[207.79469799999998, 213.30793500000001]
+2021-02-18 10:59:41.338 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 10:59:55.886 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:日本,乐,敦,小红花,lycee,滴眼液,yan,药水,新乐,敦
+2021-02-18 10:59:55.887 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:阿胶,鼻炎,全新,胶囊,他,代购,5,ad,现货,酸,官,闲置,印度,白,皮,铁盒,肌肉,小,不,式,洗脸,氯化钠,德国,营养,内,糖酸,美少女,小粉,氟,腰椎间盘,铜片,硅,2盒,宝,糕,双,要,铁,muhi,硝酸银,吉,士,止,泰,凯,仙,依,2019,衣,野,氨,港版,碱,缓释,黄体酮,力,脾,可用,苗家,9,买了,糠,霉素,洞,美容,50,修复,暖,瓶装,专柜,绿,官方,贴足,兴奋,隐,香水,レ,原价,グ,s,咪,家里,英国,纯手工,铜,控释,医生,化,还剩,懂,用了,闭口,口,全国,呋,曼,补气,洗剂,裤,蛋,之,无菌,长裤,注射用,诺华,淘,安全,30瓶,药粉,打包,想,检测,陈年,禽畜,列,好了,腹泻,正版,保障,第一,15ml,中药,复古,珍贵,详情,发票,零钱,因为,英,rtp,辅料,キ,散装,軟,纸盒,分,供应,米尔,k,抑郁,到货,4号,20片,藤,老客户,预,眼镜,零,i,得,积雪草,常,反应,修正,前列腺,道,行,11,留言,促进,水杯,一些,毛,夹子,实,甘,羚,酚,法师,万能,祛风,休闲,限时,亲戚,撕,乳酶,生发剂,查,epidaza,腺,实体,睡觉,开了,十六,修,gai,木瓜,搓,个,批号,镀金,霉菌,妇科炎症,12月,30毫升,叶酸,收纳盒,资生堂,999,疤痕,系,护膝,补品,异,nbsp,吃完,益生菌,之夜,五味,组合,草莓,法,唯一,塑料,控油,乙,斤,出血,连,私用,欧美,20支,36片,regpara,邮寄,叶酸片,女孩子,放,铑,亚胺,卖了,腹痛,30元,主治,11月,亚铁,60包,大瓶,两只,年老,紫草,50支,救星,黑蚂蚁,10ml5,流行,粉红,咽,中华,80枚,细,鼎,又,礼,荨麻疹,坐,耐,100包,腰背痛,君,婕,锐,西洋参,民,4包,结石,青春痘,摔,吃不了,结果,渗透,越,合集,玉容,diy,巧克力,湿布,七喜,放心,筛,萌,超低价,2017年,多多,了解,58,艾迪,酵素,胶体,打关节,十三,动力,顽固,纯度,靠,水粉,有限,strength,宣传司,螨虫,15支,dermcare,有的,带了,150,少量,湿气,知识,几乎,留,诗,肾衰,natco,防护,tpf-dm,山西,枫,然,店里,b1,机场,住院,蚕,國,荣,疾,拳,发际,纱布,西安,专家,品红,这些,泡水,8粒,fdsfd,shoulder,ao,杠杠,鹿角胶,塑封,芦荟胶,梗,壶,淇,字号,qi,羔羊,95,5克,20毫升,5kg,碳酸锂,孟,大增,送给,上班,舒适,女红,够,包装袋,确,仿真,犀牛,mylan,九片,刹,15片,大片,退货,日本,乐,敦,小红花,lycee,滴眼液,yan,药水,新乐,敦
+2021-02-18 10:59:55.977 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[918.3628109999993, 1079.1031489999998]
+2021-02-18 10:59:55.977 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:00:20.454 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:日本,正品,现货,久,光,制药,膏药,肩,周,腰,颈椎,关节,腰,腿,缓解,疼痛,贴,包,邮,久,光,镇痛,贴
+2021-02-18 11:00:20.454 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:日本,正品,现货,久,光,制药,膏药,肩,周,腰,颈椎,关节,腰,腿,缓解,疼痛,贴,包,邮,久,光,镇痛,贴
+2021-02-18 11:00:20.521 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1352.8503000000005, 1352.8503000000005]
+2021-02-18 11:00:20.521 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:00:44.678 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:给,小孩,买,的,增强,抵抗力,药品,买,多了,还有,九盒,8支,装,的,福,牌,阿胶,阿,胶片
+2021-02-18 11:00:44.679 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:给,买,的,增强,抵抗力,药品,买,多了,还有,九盒,8支,装,的,福,牌,阿胶,阿,胶片
+2021-02-18 11:00:44.885 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[756.2983710000002, 772.0990560000001]
+2021-02-18 11:00:44.886 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:01:01.687 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:生发,水米,诺,防脱发,长胡子,脂溢性脱发,发际,线,生发水,生,米,诺,地,尔,溶液
+2021-02-18 11:01:01.688 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:生发,水米,诺,防脱发,脂溢性脱发,发际,线,生发水,生,米,诺,地,尔,溶液
+2021-02-18 11:01:01.724 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[356.14594600000004, 412.17806700000006]
+2021-02-18 11:01:01.724 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:01:21.147 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:2ne1,民,中,之,生,love,韩,版,长,款,珍贵,鳄鱼皮,时尚,听话,大,容,要走,香水,海,乐神
+2021-02-18 11:01:21.148 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:2ne1,民,中,之,生,love,韩,版,长,款,珍贵,鳄鱼皮,时尚,听话,大,容,要走,香水,海,乐神
+2021-02-18 11:01:21.183 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1740.8514910000004, 1740.8514910000004]
+2021-02-18 11:01:21.184 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:01:41.058 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:泰国,原装,万金油,红白,清凉油,虎,牌,万金油,虎,标,提神醒脑,蚊虫,止痒,正品,虎,标,万金油
+2021-02-18 11:01:41.059 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:泰国,原装,万金油,红白,清凉油,虎,牌,万金油,虎,标,提神醒脑,蚊虫,止痒,正品,虎,标,万金油
+2021-02-18 11:01:41.100 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1739.120353, 1739.120353]
+2021-02-18 11:01:41.101 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:02:03.815 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:德国,通,鼻,精油,婴儿,宝宝,成人,通用,鼻塞,通气,无,刺激,babix,inhalat,n
+2021-02-18 11:02:03.816 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:德国,通,鼻,精油,婴儿,宝宝,成人,通用,鼻塞,通气,无,刺激,babix,inhalat,n
+2021-02-18 11:02:03.855 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1732.413184, 1732.413184]
+2021-02-18 11:02:03.856 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:02:21.228 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:新加坡,原装,正品,虎,油,标,旅行装,4g,鼻塞,蚊叮虫咬,痕,痒,虎,标,万金油
+2021-02-18 11:02:21.229 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:敦,送,胶片,鼻炎,司,非,香港,绣,洗,素,曲,起,痘,人肉,红色,出售,辉瑞,250ml,吡,腰间盘突出,可以,胺,100,盛京,美容,致,暖,硝酸,驴,本,阿托品,生命,珍视,碘,硫酸铜,前,60片,高潮,vd,补气血,伤风,12,双眼皮,母,因为,水红,南京,慈,6盒,辰,改善,kirkland,咀,w,营,度,草药,爱情,预定,激素,100元,饿,亲戚,10mg,生发剂,手提包,怡,艺,rdquo,吸汗,少,50元,结合,喜欢,控油,毒药,睾,着,分装,regpara,结核,性皮炎,女神,14粒,冰片,礼,库存,15年,头疼,耐,加拿大,byetta,面,用完,西洋参,草乌,diy,4片,秘,团,俩,确认,果胶,发光,2023年,留,马皮,尿囊素,b1,遮,散热,订单,11号,衡,电,激,抽,qi,猴枣,空运,癀,别的,小小,小伙伴,新加坡,正品,虎,油,标,旅行装,鼻塞,蚊叮虫咬,虎,标,万金油
+2021-02-18 11:02:21.314 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1180.530902, 1191.9132489999997]
+2021-02-18 11:02:21.315 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:02:37.949 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:日本,武田,糖,二,型,ト,レ,ラ,グ,リ,プ,チ,ン,コ,ハ,ク,酸,塩
+2021-02-18 11:02:37.950 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:日本,武田,糖,二,型,ト,レ,ラ,グ,リ,プ,チ,ン,コ,ハ,ク,酸,塩
+2021-02-18 11:02:37.992 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[2475.4960820000006, 2475.4960820000006]
+2021-02-18 11:02:37.992 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:02:55.318 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:日本,化妆品,日用品,佐藤,制药,nazal,鼻炎,喷雾剂
+2021-02-18 11:02:55.318 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:日本,化妆品,日用品,佐藤,制药,nazal,鼻炎,喷雾剂
+2021-02-18 11:02:55.363 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[764.9597989999999, 764.9597989999999]
+2021-02-18 11:02:55.364 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:03:11.057 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:朗,迪,婴儿,钙,碳酸钙,d3,颗粒
+2021-02-18 11:03:11.058 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:朗,迪,婴儿,钙,碳酸钙,d3,颗粒
+2021-02-18 11:03:11.101 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[918.3902670000001, 918.3902670000001]
+2021-02-18 11:03:11.102 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:03:21.842 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:斯,利,安,叶酸片,孕妇,孕期,孕,前,备,孕,福,牌,阿胶,阿,胶片
+2021-02-18 11:03:21.843 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:斯,利,安,叶酸片,孕妇,孕期,孕,备,孕,福,牌,阿胶,阿,胶片
+2021-02-18 11:03:21.888 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1072.7645719999998, 1090.040335]
+2021-02-18 11:03:21.888 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:03:55.914 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:胶,阿,四盒,福,牌,阿胶,阿,胶片
+2021-02-18 11:03:55.915 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:司,腰,生,万金油,撒,药房,施,tp,现在,瓶装,柏,血,济,解,40,匹,跑腿,回来,个人,户外,妈妈,澳门,胃药,肌腱,吸入,八珍,物品,2019年,源,铂,型号,啉,藿,亲自,永,爱情,11,延迟,二号,腰酸,皮肤病,学生,卓,ins,现货供应,4月,少女,中药材,两支,盐酸金刚烷胺,1kg,莱,屁屁,商务,别人,余生,一切,里面,超市,梅,提神,内膜,80元,开瓶器,阿片,ta,色素,高捷,6粒,惊风,强韧,入药,5年,连皮,锶,循环,藏,桌,社,没开,酒精,放着,犀牛,五瓶,阿,四盒,福,牌,阿,胶片
+2021-02-18 11:03:55.960 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[666.3859249999999, 683.3309190000001]
+2021-02-18 11:03:55.960 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:04:14.285 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:蔓,迪,防,脱,生发,喷,剂,蔓,迪,米,诺,地,尔,酊,5,60ml,3g
+2021-02-18 11:04:14.286 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:蔓,迪,脱,生发,喷,剂,蔓,迪,米,诺,地,尔,酊,5,60ml,3g
+2021-02-18 11:04:14.324 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1230.5207970000001, 1489.8583120000003]
+2021-02-18 11:04:14.325 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:04:31.620 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:阿,阿大,药房,旗舰店,399-100,东阿,阿胶
+2021-02-18 11:04:31.620 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:阿,阿大,药房,旗舰店,399-100,东阿,阿胶
+2021-02-18 11:04:31.656 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[433.37612449999995, 433.37612449999995]
+2021-02-18 11:04:31.657 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:04:49.902 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:包,邮,生理盐水,纹,绣,专用,100ml250ml500ml,洗,眼脸,鼻,用,水泡,棉,片,擦,眉,缓冲,生理盐水
+2021-02-18 11:04:49.903 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:包,邮,生理盐水,纹,绣,专用,100ml250ml500ml,洗,眼脸,鼻,用,水泡,棉,片,擦,眉,缓冲,生理盐水
+2021-02-18 11:04:49.949 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1264.495805, 1264.495805]
+2021-02-18 11:04:49.949 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:05:11.552 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:拜,耳,凯,妮,汀,克,霉,唑,阴道,片
+2021-02-18 11:05:11.553 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:拜,凯,妮,汀,克,霉,唑,阴道,片
+2021-02-18 11:05:11.590 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[762.054893, 1054.302332]
+2021-02-18 11:05:11.590 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:05:36.099 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:新,女,休闲,米,索,依,阔,牛仔,司,一盒,米,菲,直,筒,同,片,显,瘦,长裤,铜片,包,邮,米,菲,司,酮,片
+2021-02-18 11:05:36.100 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:新,女,休闲,米,索,依,阔,牛仔,司,一盒,米,菲,直,筒,同,片,显,瘦,长裤,铜片,包,邮,米,菲,司,酮,片
+2021-02-18 11:05:36.139 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1972.4147890000002, 1972.4147890000002]
+2021-02-18 11:05:36.140 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:05:51.034 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:乐,敦,小红花,日本,全新,转手,新乐,敦
+2021-02-18 11:05:51.034 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:的,喷雾剂,感,胶,洗,三,医用,本土,原,蓝,购入,腰疼,成人,减肥药,洛,丙,低,吡,一个,是,紫,盛京,情,印,停,活,10g,萘,保健,求购,滑,针剂,30g,药用,磺胺,瑞士,瘀,健脾,润滑油,晒,3.5g,50粒,硫酸钡,绝经,冲洗,产妇,大姨妈,指定,宝贝,念,营,钱夹,处方药,回国,红肿,真菌,百草,高浓度,48支,提神醒脑,30克,杜鹃花,gai,哥,霉菌,薬,衣服,100毫升,化痰,全力,鲁,庵,很多,颈椎病,14,草莓,吸,30袋,六,印花,多功能,卖了,迷恋,粘,得来,月经不调,vita40,jakavi,抗过敏,礼,羚羊角,未来,展板,糖果,莨菪,外涂,食欲,不含,峰,有人,二手,真假,要走,眼影,超强,6支,冠,代发,萌,玻,疗效,俩,90毫升,麦片,隔离,发水,ta,买给,后跟,茧,90元,完整,個,住院,开药,引进,疾,麻木,退款,发售,早期,现有,大名鼎鼎,允,shoulder,思考,另外,满意,东阿县,冠心病,视力,朵,口碑,架子,keifei,癀,开出,差价,没开,天士力,白带,boots,乐,敦,日本,新乐,敦
+2021-02-18 11:05:51.087 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[722.1402779999996, 743.0154430000002]
+2021-02-18 11:05:51.088 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:06:03.266 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:泰国,产品,虎,标,万金油
+2021-02-18 11:06:03.267 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:泰国,产品,虎,标,万金油
+2021-02-18 11:06:03.302 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[611.0012459999999, 611.0012459999999]
+2021-02-18 11:06:03.303 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:06:31.817 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:汇仁,女,金,胶囊,福,牌,阿胶,阿,胶片
+2021-02-18 11:06:31.817 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:汇仁,女,金,胶囊,福,牌,阿胶,阿,胶片
+2021-02-18 11:06:31.862 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[580.45373, 580.45373]
+2021-02-18 11:06:31.863 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:06:49.900 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:久,光,凉,感,膏药,2包,一组,每包,7枚,久,光,镇痛,贴
+2021-02-18 11:06:49.901 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:膏,牌,痛,颈,丸,喷雾剂,药,可,地,软膏,香港,胶,生,泰国,十,绣,仁,喷雾,万金油,布,美,进口,伊,腰痛,sato,油,酊,膝盖,rohto,拆封,疼,溶液,儿,三盒,发货,新款,如,草,润,洗液,七,奇,清洁,用品,流,盐,汀,胎,要,硝酸银,补钙,药房,钯,洁,面包,士,吃,包装,2019,气,正,过敏,5盒,妮,经,微,痛经,没,西部,崔,美国,碱,钠,倩,性,帝,托,入,现在,良,纯,体,复方,睾酮,苗家,9,浆,盖,医大,洞,4,给,秋,卖,增,视频,颈部,包包,印,菌,块,专柜,停,lrm,蓝色,亚,合欢,七夕,湿,痛风,19.4g,cyclogest,柏,草木犀,6,佐,コ,前列,塩,满,红花,血,思,请,减肥,60粒,自制,葡,保湿,流感,胳膊,助,化,热,商品名,曲名,用了,氮,酸钠,提供,保胎,知,合作,13ml,祖师,插,20瓶,花粉,菌素,白云山,防水,紫竹,洗剂,也,拧,加强版,药用,xbqm,黑色,做,zwnj,前,迷你,之,脉,长裤,转手,60片,sulilight,一字,canesten,精装,二包,外,拼,迷人,剩余,盒子,喜,自,抑,身体,实验,尿酸,打包,速效,想,可溶性,女服,斑,鹅,中医院,小林,及,刺激,创口,含,个人,氏,马,保障,灌装,脚踝,一共,脱皮,3.5g,双眼皮,黄精,领,镁,绝经,缓,冲洗,母婴,换,复古,快,珍贵,陈李济,125g,代谢,两个,100粒,雌激素,旗舰店,养颜,英,都是,礼盒装,如图,京东,溴,散装,七叶,可查,礼品,salonpas,6盒,阴,直接,オ,育,笠,改善,红血丝,欧,每天,参天,搭,运,雪,纸盒,口腔,五包,曼谷,质量保证,为,意,化妆品,齐,到货,w,解酒,乌鸡,辅助,5号,奥运会,醒酒,亲自,鸟,草药,血塞通,杜,生化,中医,囤货,通便,极速,鱼肝油,知道,木,m,的话,饮,边,炔诺酮,定做,爱情,涂抹,患者,整,特色,吸引,屈,不用,感兴趣,2十,可选,拯救,让,羊,手术,顾客,快速,法师,尿,礼物,休闲,薰衣草,眉毛,渠道,金霉素,两用,罚,瓦,安眠,形象,挂,唇,短发,险,peg,4瓶,增强,理,买回来,吐,组人,ins,20元,护手霜,金银,镀金,一力,妇科炎症,券,50毫升,化痰,废,国药,乖巧,兴,10cm,回家,系,糯米,12片,nbsp,3片,结合,法,头晕,测试,技术,唯一,成功率,30袋,春季,寄,腾,60元,亮,苦,20支,分装,hair,j,36片,说明,角,流水,孚,成,3天,外阴,折,亚胺,石膏,30元,骨质,藓,11月,孟加拉,亚铁,非常,坤,苔,说,再造,泡沫,藏药,65,分离,得来,存,粉红,8行,中华,仙女,但是,箱,苄,14粒,铅,恶露,血丝,玻璃瓶,制剂,拍下,茶水,又,控,友,呕吐,mm,100包,子宫,byetta,硬脂酸,面,见效,高标准,貨,同济,戈,智,力度,三件,多云,拆开,年,金阳,dermovate,可食用,即,4包,费,理了,85g+30g,青春痘,blanc,试用装,短裤,二手,风湿痛,非法,20盒,弥漫,痣,皮肤科,氨酸,美容院,只用了,全球,5mg,不好,擦拭,去除,冠,extra,解痛,或者,超市,以内,卷,超低价,稀释液,感觉,明年,对照,甘露,部,玻,4000,疗效,今天,cycle,止泻,眉纹,gt,消炎药,俩,17年,标签,4g,东东,用不着,淤,狗眼,90毫升,灌,流管,帝国,60毫升,靠,水粉,28片,藤黄,strength,85克,任意,钠盐,口罩,螨虫,这是,gao,rohtovita40&alpha,庆,低糖,发水,同事,图案,不舒服,蓉,通风,百年,喝了,哮喘,环丙沙星,氨基,第二,新疆,好东西,诗,500ml5,流产,2016年,保湿霜,引起,色素,金色,鱼皮,示范,爸爸,zurig80,后来,不懂,胃炎,铁拐李,铁片,润肤,高捷,2中,崋,水光,定期,惊风,瘟,医药公司,股,豆,鸡眼,表皮生长因子,有意者,罂粟碱,偏远,荷兰,交,资质,阔佬,极品,3一三,呀,痊愈,菴,退款,牙刷,澜,散热,200元,蕲,专家,循环,捡漏,900,pradaxa,5袋,青春,性保健,想家,柯,bvcxfd,烯,掉头发,有用,女儿,不留,su,另外,满意,伤风感冒,有点,绞股蓝,1499,细菌,正牌,不足,松本,罗素,250100,棕,脚臭,一板,桥本,2012年,20毫升,生长激素,开出,差价,娜,参茸,这款,您,枇,穿,内酯,各大,120枚,1千粒,删除,别的,大连,包装袋,放着,还没,几次,流人,舒爽,润肺,ddrops,a-ok,boots,九片,葵花,精液,爸妈,400克,谁,10+1,大片,单价,判,超高,收货,栏,心血管,强身,搞活动,三袋,久,光,凉,膏药,2包,一组,每包,7枚,久,光,镇痛,贴
+2021-02-18 11:06:50.034 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[863.9427909999998, 938.6797730000001]
+2021-02-18 11:06:50.035 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:07:03.383 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:日本,久,光,膏药,贴,推荐,腰,腿,酸痛,人员,使用,久,光,镇痛,贴
+2021-02-18 11:07:03.384 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:日本,久,光,膏药,贴,推荐,腰,腿,酸痛,人员,使用,久,光,镇痛,贴
+2021-02-18 11:07:03.426 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[906.5955690000001, 906.5955690000001]
+2021-02-18 11:07:03.427 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:07:29.019 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:化,囊,加,五,医院,开,的,现在,不需,要继续,吃了,全新,日期,转给,有,五加,生化,胶囊
+2021-02-18 11:07:29.019 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:化,囊,加,五,医院,开,的,不需,要继续,吃了,全新,日期,转给,有,五加,生化,胶囊
+2021-02-18 11:07:29.054 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[928.686874, 939.8390650000001]
+2021-02-18 11:07:29.054 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:07:58.721 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:片,锂,抑郁症,患者,福音,碳酸锂,片
+2021-02-18 11:07:58.721 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:片,锂,抑郁症,患者,福音,碳酸锂,片
+2021-02-18 11:07:58.750 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[151.6059555, 151.6059555]
+2021-02-18 11:07:58.751 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:08:12.976 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:专人,专,拍,伊,曲,康,唑,胶囊
+2021-02-18 11:08:12.976 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:专人,专,伊,曲,康,唑,胶囊
+2021-02-18 11:08:13.007 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[709.105723, 743.114275]
+2021-02-18 11:08:13.007 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:08:34.072 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:南,创,贴,白云,30两,盒,包,邮,云南白药,创,可,贴
+2021-02-18 11:08:34.072 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:滴剂,丹,缓冲,喷,万金油,冷,周,酸痛,骨,lycee,1,生发,需要,疲劳,硅,naprogesic,抗,味,软胶囊,辉瑞,丙,必备,粒,肩膀,妮,辅,500克,针,优,5瓶,突出,肺,瑞,腰间,丽,可爱,满,防伪,套,器,轻,懂,稀释,40,再,知,新鲜,眼睛,真皮,糊,20瓶,信,脚气,润滑剂,磺胺,熊,添加剂,磺酸,奶,新华,浓度,达因,椿,跟贴,高潮,吧,生产日期,筋腱,伤风,领,硫酸钡,预制,旗舰店,辅料,睡眠,改善,海外,黑头,钻,闽南话,络,1927三,低血糖,沦,射,近视,牙痛,牙科,魔,零,国际,爱乐,公,定做,更,pc,制作,11,风油精,高浓度,100元,羚,认准,提神醒脑,都可以,降糖,天津,便,毫升,退烧,学生,扭,一套,免疫力,好到,百里香,腹胀,劳累,乳酸菌,妹,协和医院,衣服,资生堂,角膜炎,鼾,化痰,兴,时间,12片,异,念珠菌,锉,补锌,柑橘,说明,补铁,孟加拉,60包,去年,没用,马来,分离,达克罗宁,eloson,字,抗过敏,鼎,辽,控,氺,寿,wan,bufferin,blanc,abs,25g,加强型,benzalkonium,啥,姑嫂,十包,日常,微管,去除,修饰,人血白蛋白,亿,青年,cycle,思维,25元,c-cube,顽固,28片,袋子,一下,带了,集合,病毒,位元,盘腿,揉捏,进补,6粒,引进,龙城,小刀,润肤乳,机,尿频,见,regrowth,去痛,出来,烯,春节,bb,梗,一天,娜,没开,天士力,单价,判,一条,28粒,南,创,贴,白云,30两,包,邮,云南白药,创,可,贴
+2021-02-18 11:08:34.135 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1135.5492810000003, 1147.706085]
+2021-02-18 11:08:34.135 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:08:46.703 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:盛京,医院,痱子粉,四合,爽身粉,硼酸,软膏
+2021-02-18 11:08:46.704 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:医院,痱子粉,四合,硼酸,软膏
+2021-02-18 11:08:46.740 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[151.71996000000001, 270.654308]
+2021-02-18 11:08:46.741 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:09:04.068 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:防脱发,和,斑秃,蔓,迪
+2021-02-18 11:09:04.068 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:防脱发,和,斑秃,蔓,迪
+2021-02-18 11:09:04.099 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[603.6352069999999, 603.6352069999999]
+2021-02-18 11:09:04.100 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:09:25.240 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:日本,撒,隆,巴,斯,salonpas,镇痛,贴,药膏,久,光,镇痛,贴
+2021-02-18 11:09:25.240 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:日本,撒,隆,巴,斯,salonpas,镇痛,贴,药膏,久,光,镇痛,贴
+2021-02-18 11:09:25.283 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1168.477602, 1168.477602]
+2021-02-18 11:09:25.284 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:09:47.680 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:吉,三代,孟,加,拉,索,非,布,韦
+2021-02-18 11:09:47.681 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:吉,三代,孟,加,拉,索,非,布,韦
+2021-02-18 11:09:47.722 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1058.9147189999999, 1058.9147189999999]
+2021-02-18 11:09:47.723 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:10:10.942 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:rush,男用,包,邮,男,男,高浓度,0号,1号,同志,用品,情趣,男女,房事,润滑剂,0号,胶囊
+2021-02-18 11:10:10.943 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:rush,男用,包,邮,男,男,高浓度,0号,1号,同志,用品,情趣,男女,房事,润滑剂,0号,胶囊
+2021-02-18 11:10:11.118 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[2283.9952089999997, 2283.9952089999997]
+2021-02-18 11:10:11.118 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:10:34.760 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:原,西,西部,牛仔,进口,西,布,口,盐酸,西,布,曲,明,片
+2021-02-18 11:10:34.762 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:原,西,西部,牛仔,进口,西,布,口,盐酸,西,布,曲,明,片
+2021-02-18 11:10:34.799 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1678.6382840000003, 1678.6382840000003]
+2021-02-18 11:10:34.799 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:11:01.772 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:维生素,d,滴剂,胶囊,维生素,d,滴剂
+2021-02-18 11:11:01.773 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:日本,阿,颈,迪,缓冲,酮,眼,眼药水,绣,网,腿,酸,美,一盒,周,仙草,腰痛,钱包,250g,闲置,明,肌肉,250克,30ml,爱力,腰间盘,洗脸,需要,内,特,按摩,小粉,vitamin,霉,瓶,婴儿,口服液,苷,氯,代,腰椎间盘,消,回收,黄,肩部,补钙,龙,波,威,炎,精油,苯,女性,衣,比,500,高,积雪,采购,中,用药,好用,价格,婴,裸,缩,软,每,套装,牛仔,贴膏药,纯,贝,方,糠,灵,医大,咨询,致,幻,1盒,康定,肺,颈部,桂,块,追风,lrm,蓝色,支,私聊,酯,可爱,而,帖,s,蛋白,彼,疏通,滑,樱花,鱼,啊,蚊虫,滋补,再,yanhee,时,拧,之,正气,fx,一字,aziderm20,外,孕期,毛边,食用,防晒,对,列,派,三天,服饰,马,楚,户外,40粒,一共,京,很,x,胃药,预制,丁酸,硬币,杯,生产,幸福,症,雌激素,100ml250ml500ml,十八,キ,凝,200,溴,一手,雄,常备,糖尿病,售,清新,家庭,想要,免费,汗,质量保证,入手,k,秦,铂,夜间,sod,戴,里,纹眉,快感,门,蝎蛇,焕,小票,以下,炔诺酮,定做,2支,筒,进,日亚,初,促进,黄色,36粒,丙肝,毛,加强,淡,通络,仁和,法师,购回,不要,彪,1袋,休闲,限时,食品,一只,30克,双黄,撕裂,生发剂,听话,35,降压药,一片,险,抗疲劳,吐,混合,泉,大阪,45,120瓶,哥,批号,高位,蚕茧,好评,薬,适用于,10包,菊花,衣服,全部,发烧,营养液,铁皮,胆碱钠,江中,糯米,卡通,nbsp,黄金,代理,ar,渣,12袋,14,味道,测试,产地,400,毒药,私用,止痛片,腾,套餐,消毒液,翘,七厘,柑橘,tigerbalm,丹参,丁克,孚,regpara,3天,沃,亚胺,2018年,孟加拉,ems,去年,坤,身,华山医院,两只,自取,勃起,扩,吉祥,分类,疾病,走,h,40g,闭经,箱,疏松,7盒,情人节,恪,宗,玻璃瓶,制剂,饲料,糖果,腰背痛,400g,日用品,延缓,百分之,一炮,焊条,厚,保安,开过,员工,录制,30支,理了,砂轮,新老,新绿,19,ー,长胡子,汉,组织,啥,超强,造影剂,全球,去除,蔗糖,痰,内膜,2017年,58,300ml,按,不吃,余量,郑州,假货,近,盈,200g,标签,血糖,药液,60毫升,藤黄,鸽,预售,庆,25mg,蛇蝎美人,中成药,人民医院,120ml,低糖,同事,香草,18,传统,图案,每包,好多,镇痛剂,来了,抱,1片,9g,茧,85,每周,保湿霜,睫毛膏,纤,所有,不需要,枫,湘,tong,铁片,個,招,血粉,ke,月月,医药公司,强韧,入药,燕窝,错,55包,交,12盒,退款,润肤乳,症状,早期,最低价,订单,dulcolax,朝贡,捡漏,国家队,代言,异味,618回,戊酸,衡,bvcxfd,幼儿,类风湿性,ロ,胸腺,大法,睡袍,网上,奶嘴,冠心病,猴枣,随便,外伤,碳酸锂,轮,十一,之王,驱寒,大杂烩,疣,吃过,润肺,mylan,缺,九片,标准溶液,心血管,cool40&alpha,牛仔裤,维生素,d,滴剂,胶囊,维生素,d,滴剂
+2021-02-18 11:11:01.868 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[963.2263220000001, 1140.4294530000002]
+2021-02-18 11:11:01.869 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:11:22.068 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:包,邮,顺,丰,怀,早早,女服,牌,堕,笞,清宫,腔,药,物流,停,胎,引产,中,药盒,正品,包装,8,米,菲,司,酮,片
+2021-02-18 11:11:22.069 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:他,诺,250g,劲,推荐,器,哺乳期,舒服,流管,芽,淇,包,邮,顺,丰,怀,早早,女服,牌,堕,笞,清宫,腔,药,物流,停,胎,引产,中,药盒,正品,包装,8,米,菲,司,酮,片
+2021-02-18 11:11:22.139 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[2539.6905600000005, 2539.6905600000005]
+2021-02-18 11:11:22.140 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:11:42.143 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:三,挫,伦,三,挫,仑,三,搓,仑,伦,片,海,乐神
+2021-02-18 11:11:42.143 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:新乐,全新,胶囊,制药,尔,地,关节,胶,水,达,仁,大,专用,万金油,菲,蔓,云南白药,伊,莫,散,曲,唑,蚁,起,关节痛,有,拉,e,硫酸,打,一包,鹿,三盒,丁,替,治疗,猫,糖,腰疼,c,转卖,硼酸,补血,创,胶块,盒装,腱鞘,五盒,代,购,了,鼻塞,耳,babix,0号,自己,宝,软胶囊,栓,格,蝮蛇,人,黄,8ml,吉,好,澳洲,产品,粒,到,inhalat,价,肾,品,浓缩,朋友,胺,珠,价格,乳剂,藿香,崔,性,缩,黄体酮,贴膏药,80毫克,方,可用,镧,颗,突出,参,堕,美容,幻,德,康定,otc,一斤,瓶装,透气,便携,优惠,本,果,材料,合欢,脐,硫,当天,用水,4盒,擦,满,四盒,2020年,绝对,乌梢蛇,降,疏通,老中医,痘痘,家用,分子量,速,鱼,到期,上海,商品名,蚊虫,猪肚,缬,碘,真皮,13ml,24,步长,抑郁症,潮,补气,老人,加强版,左,药用,老虎,牛皮,vc,空,蚂,类,验货,哪,外,盒子,燥,自,达因,早,处方,食品级,稳心,孕酮,流鼻涕,检测,剩下,2包,安神,最,60,及,派,含,驱蚊,吧,哺乳期,三天,十盒,妈妈,脱皮,3.5g,母,没有,缓,f,中药,啦,冲洗,儿科,雅,苏,产妇,125g,癣,养颜,牙,因为,纽,十八,要给,花眼,雄,其他,牙膏,爆,育,阴道炎,真,辰,扎,洗发水,海外,lion,分,三甲,平安,曼谷,町,装饰,3包,短,咀,型号,不退,近视,sod,水溶性,兴奋性,冷敷,里,5号,10片,草药,门,bayer,粮,酰,处方药,葆,实体店,吗,敏感,居家,知道,广州,木,易,焕,老君,护肤品,给我,前列腺,寒腿,用不完,夫妻,预定,新霉素,感兴趣,实,100元,薄荷,眠,饿,省,db,查询,冲剂,五加,私,眼线,万能,都可以,腰酸,工艺品,眉毛,金霉素,超薄,撕,2个,结膜,圣,菊,本镇,麒麟,三九,学生,三瓶,120g,拒绝,懂得,马来西亚,批号,妹,蒙,真的,同城,涛,打开,限定版,叶酸,10粒,券,唐,干净,o,粗,西藏,14片,废,外壳,纸巾,数量,焦虑,鞣酸,临期,浸,卡通,香化,益生菌,锉,现货供应,解毒,8盒,五味,包起,视,蛋白酶,0#,aziderm,们,大量,疗,出血,屁股,私用,腾,咀嚼,翘,出品,柑橘,tigerbalm,术,贫血,3天,颜,放,第三代,亚胺,爱心,主治,骨质,在线,李,senokot,11月,淡化,约,勃起,碘酒,结核,广东,扩,藏药,50包,童,胀,膝关节,流行,咽,40g,集团,每瓶,佩戴,防暑,肾宝,主,三包,vita40,硅胶,卡片,铅,商务,工作,国宝,玻璃瓶,拍下,25周年,膏乳,3克,友,牙周炎,荨麻疹,氺,神油,良药,会,400g,36,同济,手拿,讲价,慢,就是,美丽,大帝,锐,芎,拆开,防止,自慰,宠物用品,3粒,dermovate,管用,结石,blanc,一扫光,升级版,有人,ying,19,防晒霜,吃不了,老年,采,组织,抑制,玉容,夏装,8瓶,奥美,衍,超强,几,药油,12支,14枚,氨酸,湿布,谢谢,yi,3号,溃疡,萌,感觉,润肠,58,霸王,甘露,感情,40片,寶,人气,余量,付款,模糊,三金,干眼症,cycle,盖平,55元,十三,售出,外包装,口味,c-cube,积,东东,淤,加厚,靠,仁丹,石榴,均,口罩,球,两袋,蛇蝎美人,月底,雌,六甲,发水,同事,拉肚子,新年,肿,不舒服,飞人,位元,杆,街,通风,一点,哮喘,知识,第二,48片,冬虫夏草,睫毛膏,金色,胃肠,黑白,不懂,期,卧,备用,新店,一十,用不了,愈合,身边,fancl,裕,ky,遮,肠道,48粒,燕窝,荣,20克,浓密,伪,麻木,透析,20年,一个月,发际,五味子,研制,润肤乳,发售,澜,咽炎,2021,消食,臣,允,去痛,绑带,嗯,创伤,fdsfd,24包,血小板,bariumsulfate,forsuspension,衡,偏远地区,做了,金黄,mf,ao,回头率,小样,shui,另外,把,80片,伤风感冒,芦荟胶,白兔,安定,网上,深,字号,羔羊,朵,聚,大腿,胃酸,棕色,葡糖,设计,5kg,帮助,0.33g,记录,闪耀,无货,勾,血压,这款,泰勒,康宁,新型,鸽子,驱寒,睾丸素,浸泡,要买,娥,格子,抽屉,滚,sd,九片,醒,葵花,400克,推迟,肚子,批发价,28粒,三,挫,伦,三,挫,仑,三,搓,仑,伦,片,海,乐神
+2021-02-18 11:11:42.257 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1794.5632229999999, 1973.3602560000002]
+2021-02-18 11:11:42.258 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:12:07.527 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:全,新安,素,粉,内,肠,养,安,素,肠,内,营养,粉剂,tp
+2021-02-18 11:12:07.527 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:全,新安,素,粉,内,肠,养,安,素,肠,内,营养,粉剂,tp
+2021-02-18 11:12:07.560 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[2114.0888410000002, 2114.0888410000002]
+2021-02-18 11:12:07.561 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:12:32.360 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:一颗,心,ad,滴剂,维生素,ad,滴剂
+2021-02-18 11:12:32.360 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:膏药,五,三,蚁,永久,羟,7,伤痛,购买,止痒,拉伤,日,心安,妙药,抗菌,女用,罗,养,都,浆,手,试剂,按压,芙,头痛,正气水,硝苯地平,效,腰间,硝,擦,泊,控释,精灵,拧,地黄丸,信,盒子,速效,小林,欢迎,灰指甲,一共,爽身粉,冰,房事,热销,ア,十八,一手,纹身,淀粉,短,齐,免费送,双层,涂,辅仁,小票,比多,家中,反应,腰酸背痛,毒素,丙肝,夹子,middot,奈,让,购回,限量,都可以,盛,6月,仔,生理期,任何,藥,哥,磺,真的,券,苦参,肛交,问题,aim,十支,烧伤,16年,屁股,j,regpara,晟,老年人,8行,eloson,姬,哈,噻,牙周炎,寿,发包,新绿,妇幼保健院,气质,团,股癣,霸王,300ml,找,开瓶器,cycle,加厚,120mg,dermcare,花红,买给,逼,本来,卧,上了,sigma,拳,润肤乳,同学,发售,散热,品红,代言,静,幼儿,腱鞘炎,有用,脚臭,日本海,理性,20毫升,记录,360,2019女,怕,别的,玻璃杯,aaa,小小,一条,排队,心,ad,滴剂,维生素,ad,滴剂
+2021-02-18 11:12:32.409 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[561.4376390000001, 705.8476350000001]
+2021-02-18 11:12:32.410 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:12:43.400 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:畅,迪,尘,剂,螨,12345号,粉尘,螨,滴剂
+2021-02-18 11:12:43.401 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:日本,牌,敦,福,邮,米,鼻炎,司,标,鼻,尔,盒,洗,霜,痘,骨,滴,皮,半,式,立,发货,内,多,转卖,伦,草,vitamin,口服液,露,清洁,用品,仑,池,出售,硝酸银,何,退热,科,醇,瞳,研,新加坡,凯,吡,考,西部,货,还有,荷尔蒙,颗,手,堕,四,暖,块,单,元素,肘关节,产后,当天,霉菌性,乌,吃了,武田,塩,血,博,老中医,滑,套,樱花,硫磺,山,控释,失眠,陈,珍视,眼睛,祖师,硫酸铜,富贵,用于,时,防水,潮,糖浆,狗,人参,前,磺胺,空,补肾,熊,添加剂,早,温热,勃,最,列,腹泻,含,落,王,母,50粒,几盒,综合,胃药,15ml,儿科,鸡鸭,高原,苏,乙醇胺,两个,牙,小孩,京东,路,专治,八珍,雄,大姨妈,阴道炎,灌肠,红血丝,指定,2019年,戊,近视,sod,栓剂,戴,辅助,bayer,水晶,吗啡,木,家中,反应,生乳,容量,新霉素,丙肝,实,劳损,奈,泡腾片,屈臣氏,洗面奶,酚,诺尔,腹,氨基葡萄糖,薰衣草,两用,收购,牌子,撕裂,形象,epidaza,6月,唇,120片,120g,298,大阪,磺,10元,涛,50mg,限定版,100毫升,吸汗,资生堂,客户,牛皮癣,发烧,制造,这,渣,东京,不适,一件,解郁,车,白云,勿扰,钡餐,消化不良,斤,尚,出品,罗浮山,迷恋,2022年,流泪,淡化,食,扩,性皮炎,益智,65,盐酸金刚烷胺,达克罗宁,咳嗽药,母片,眼罩,商务,国宝,膏乳,冰片,3克,风寒,10毫升,个月,日用品,百分之,戈,力度,婕,架,健儿,老牌,费,电脑,新绿,80ml,百分百,远,款式,牡蛎,皮肤科,白条,6支,超短,老人头,孕产妇,湿润,extra,礼品盒,300ml,cas,寶,发达,青年,gt,消炎药,近,河,外包装,c-cube,淤,果胶,麦片,白虎,两袋,精制,阳具,城,发育,周边,樟,流产,2015年,睫毛膏,防护,无色,夹,血粉,催情,多少钱,sofosbuvir,荷兰,萬,dha,发售,澜,片剂,散热,波士,那一,铅板,尿频,专家,低头,草包,8粒,fdsfd,备注,粮食,小样,北,睡袍,睡衣,名,安定,850,能吃,也有,东阿县,5克,胃酸,375克,贴纸,腰椎间盘突出,差价,血压,之王,性病,流人,大杂烩,仿真,九片,大片,并不,用钱,加油站,五瓶,一条,强身,畅,迪,尘,螨,12345号,粉尘,螨,滴剂
+2021-02-18 11:12:43.477 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1462.3355959999997, 1532.5515899999998]
+2021-02-18 11:12:43.477 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:13:08.304 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:官,网,筋骨,痛,康,鹿血,蛇,蚁,胶囊,买,五,送,二,买,十,送,五,另,送,黑,膏药,如,假,包退,f,筋骨,痛,康,鹿血,蛇,蚁,胶囊
+2021-02-18 11:13:08.305 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:官,网,筋骨,痛,康,鹿血,蛇,蚁,胶囊,买,五,送,二,买,十,送,五,另,送,黑,膏药,如,假,包退,f,筋骨,痛,康,鹿血,蛇,蚁,胶囊
+2021-02-18 11:13:08.364 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[3242.285065000001, 3242.285065000001]
+2021-02-18 11:13:08.365 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:13:35.067 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:孕,妈妈,补钙,补铁,碳酸钙,d3,颗粒
+2021-02-18 11:13:35.067 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:孕,妈妈,补钙,补铁,碳酸钙,d3,颗粒
+2021-02-18 11:13:35.172 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[651.3267000000001, 651.3267000000001]
+2021-02-18 11:13:35.173 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:14:00.938 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:假,一,赔,十,日本,sato,佐藤,鼻炎,喷,剂,喷雾,30ml,急慢性,过敏性,鼻塞,流,鼻水,佐藤,制药,nazal,鼻炎,喷雾剂
+2021-02-18 11:14:00.938 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:假,一,赔,十,日本,sato,佐藤,鼻炎,喷,剂,喷雾,30ml,急慢性,过敏性,鼻塞,流,鼻水,佐藤,制药,nazal,鼻炎,喷雾剂
+2021-02-18 11:14:00.996 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1909.094218, 1909.094218]
+2021-02-18 11:14:00.996 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:14:25.873 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:乐,敦,隐形眼镜,滋润,眼药水,新乐,敦
+2021-02-18 11:14:25.874 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:乐,敦,隐形眼镜,滋润,眼药水,新乐,敦
+2021-02-18 11:14:25.921 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[762.5865079999995, 762.5865079999995]
+2021-02-18 11:14:25.922 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:14:47.505 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:印度,代购,蓝,白,80&times,30,懂,得来,老,顾客,专,拍,3盒,包,邮,非,布,司,他,uloric
+2021-02-18 11:14:47.505 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:印度,代购,蓝,白,80&times,30,懂,得来,老,顾客,专,拍,3盒,包,邮,非,布,司,他,uloric
+2021-02-18 11:14:47.541 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1048.1600940000003, 1048.1600940000003]
+2021-02-18 11:14:47.541 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:15:18.534 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:一些,杂物,眼药水,乐,敦,cc,系列,新乐,敦
+2021-02-18 11:15:18.534 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:一些,杂物,眼药水,乐,敦,cc,系列,新乐,敦
+2021-02-18 11:15:18.572 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[744.337266, 744.337266]
+2021-02-18 11:15:18.573 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:15:39.841 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:九,光,膏,贴,日本,原装,光,久,贴,腰椎,疼,颈椎,贴,关节,腿,痛,膏,贴,颈,肩,贴,包,邮,久,光,镇痛,贴
+2021-02-18 11:15:39.841 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:九,光,膏,贴,日本,原装,光,久,贴,腰椎,疼,颈椎,贴,关节,腿,痛,膏,贴,颈,肩,贴,包,邮,久,光,镇痛,贴
+2021-02-18 11:15:39.896 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1702.6143729999997, 1702.6143729999997]
+2021-02-18 11:15:39.896 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:16:01.016 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:关节痛,膝,肘,正品,酸,现货,伤痛,膏,贴,缓解,原装,贴足,贴膏,坐骨,温,感,久,光,镇痛,贴
+2021-02-18 11:16:01.016 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:关节痛,膝,肘,正品,酸,现货,伤痛,膏,贴,缓解,原装,贴足,贴膏,坐骨,温,感,久,光,镇痛,贴
+2021-02-18 11:16:01.076 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1231.924194, 1231.924194]
+2021-02-18 11:16:01.077 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:16:13.708 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:百分百,正品,红字,铁盒,胶,阿,现,秋冬,滋补,养生,保健,专用,产品,自用,东阿,阿胶
+2021-02-18 11:16:13.708 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:百分百,正品,红字,铁盒,胶,阿,现,秋冬,滋补,保健,专用,产品,自用,东阿,阿胶
+2021-02-18 11:16:13.752 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[490.523369, 612.5043129999998]
+2021-02-18 11:16:13.753 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:16:37.217 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:邦,廸,药用,创,可,贴,创口,贴,贴,扎,铵,4片,20袋,苯,扎,氯,铵,贴,benzalkonium,chloride,patches,商品名,邦,迪
+2021-02-18 11:16:37.217 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:敦,片,胶片,痛,全新,虎,代购,丹,地,ad,大,生理,布,仙草,曲,唑,10,3,有,欣,东,松,气雾剂,儿,出,德国,新款,葡萄,tablets,防,低价,购,消,铜片,保真,3g,0号,孕妇,脱发,池,葡萄糖,萨,济公,必备,8,所,膝,粒,雾,在,经,巧,肘,缩,每,贴膏药,合,买了,乖,硼,秋,卖,增,保质期,包包,滋阴,按压,院,支,100mg,10盒,10g,硫,湿,半斤,充血,リ,武田,チ,宠物,家里,12ml,减肥,纯手工,系列,浸液,芝,轻,潮流,还剩,解,蚊虫,以上,大盒,猪肚,活络,伏,24,全国,白云山,紫竹,90ml,也,zwnj,冻干粉,首,有效,精装,拼,迷人,佳,新华,处方,跟贴,安神,列,刺激,肝素钠,预防,袋装,户外,几盒,硫酸钡,胃药,绝经,缓,硬币,苗,50ml,酒,英,川,路,一手,七叶,5ml,大姨妈,salonpas,オ,欧,lion,病,催,皮炎,多款,络,买来,100g,功能,冷敷,塑,压,西沙,情趣用品,得,积雪草,健身,广东省,一次性,家中,6片,36粒,清热,冲,尿,氨基葡萄糖,都可以,yh,￥,两用,疲,0.5g,腺,菊,险,福利,强力,健美,邮出,扫,男人,直发,同城,50mg,协和医院,收纳盒,券,牛皮癣,少,9月,干净,50元,彩,护膝,时间,吃完,ar,其实,服用,免,aim,五味,味道,测试,技术,靠手,十支,乙,一味,逗,热卖,罗浮山,ab5,多功能,迷恋,2018年,轻巧,鳄鱼皮,洗洗,2022年,家居,完,年老,原料药,分类,老公,50支,救星,未用,10ml5,12粒,试,润滑液,vita40,目,滋养,暴,大力,商务,郎,铝合金,附属,迅速,控,升级,头疼,耐,糖果,莨菪,个月,zhu,油膏,君,肌肤,齐全,疮,用完,慢,就是,骨干,年,活血化瘀,大号,民,极,食欲,即,blanc,试用装,有人,80ml,防晒霜,加强型,可心,风湿痛,冬虫草,海王,提取物,远,150ml,无极,六盒,多糖,0.5,安保,白条,6支,14枚,妈咪,只用了,5mg,微管,里面,瓶子,28,1套,或者,筛,私人,霸王,付邮,世,一体,4000,今天,自营,gt,专卖,十三,三个,电解质,40cm,近,所需,血糖,油脂,有限,120mg,鸽,这是,75mg,南洋,两袋,血栓,香草,不舒服,黄得,花红,杆,哮喘,1-,完整,示范,爸爸,胃肠,独立,所有,枫,暖和,株式会社,45元,招,一半,空军,进补,定期,情人,鸡眼,引进,浓密,毛孔,阔佬,极品,晕车药,清热解毒,澜,具,片剂,11号,大名鼎鼎,栀,原版,臣,嗯,祛风除湿,rub,搬家,bariumsulfate,想家,柯,偏远地区,不干胶,疗法,发情,类风湿性,春节,工业,本品,1499,完全,聚,新买,0.5mg,一天,电话,9颗,留学,您,针管,平乐,之王,sd,九片,精液,主要,10+1,还是,九款,收货,灰白,邦,廸,药用,创,可,贴,创口,贴,贴,扎,铵,4片,苯,扎,氯,铵,贴,benzalkonium,chloride,patches,商品名,邦,迪
+2021-02-18 11:16:37.327 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1951.973701, 1992.8975710000002]
+2021-02-18 11:16:37.328 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:16:53.438 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:fx,眼,水,lycee,眼,水,新乐,敦
+2021-02-18 11:16:53.438 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:fx,眼,水,lycee,眼,水,新乐,敦
+2021-02-18 11:16:53.479 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[889.921613, 889.921613]
+2021-02-18 11:16:53.480 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:17:09.077 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:科研,实验,试剂,硫酸,链霉素,streptomycin,sulfate,amresco,0382,秋,水仙,碱
+2021-02-18 11:17:09.078 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:科研,实验,试剂,硫酸,链霉素,streptomycin,sulfate,amresco,0382,秋,水仙,碱
+2021-02-18 11:17:09.130 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1260.0404010000002, 1260.0404010000002]
+2021-02-18 11:17:09.130 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:17:23.096 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:香港,带,回生,仁,余,丹,余,仁,生,保婴,丹
+2021-02-18 11:17:23.097 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:带,回生,仁,余,丹,余,仁,生,保婴,丹
+2021-02-18 11:17:23.127 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[746.6451620000001, 888.1509360000001]
+2021-02-18 11:17:23.128 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:17:47.533 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:正品,贴膏,大,鹏,温,感,腰腿痛,关节痛,颈椎,腰痛,肌肉,肩,周,炎,膏,贴,久,光,镇痛,贴
+2021-02-18 11:17:47.534 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:正品,贴膏,大,鹏,温,感,腰腿痛,关节痛,颈椎,腰痛,肌肉,肩,周,炎,膏,贴,久,光,镇痛,贴
+2021-02-18 11:17:47.598 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1229.447162, 1229.447162]
+2021-02-18 11:17:47.598 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:18:04.714 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:只要,用过,久,光,都,不想,换药,贴了,无限,回购,的,膏药,日本,久,光,贴,哪,疼,呼,久,光,镇痛,贴
+2021-02-18 11:18:04.714 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:液,一三,带回,lycee,转卖,补血,胶块,田,低,考,inhalat,碳,罗,价格,狮王,倩,g,消炎剂,20,霉菌性,壬,原价,长裤,本版,aziderm20,高潮,腹泻,正版,50粒,新品,川,京东,指定,型号,10片,手提,2支,筒,吸引,薄荷,顾客,料,便,小包,同城,碎块,黄金,蛋白酶,七厘,柑橘,避孕药,雾气,50支,天亮,每瓶,屁屁,慢,脸部,2月,试用装,短裤,罐装,高尿酸,确认,惊,本地,留,所有,本来,卧,月月,强韧,碘化钾,13,安定,字号,一天,各大,和我,九片,只要,用过,久,光,都,换药,贴了,无限,回购,的,膏药,日本,久,光,贴,哪,疼,呼,久,光,镇痛,贴
+2021-02-18 11:18:04.772 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1308.008449, 1336.4943419999997]
+2021-02-18 11:18:04.773 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:18:28.386 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:小红花,眼药水,2个,起,卖,新乐,敦
+2021-02-18 11:18:28.386 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:小红花,眼药水,2个,起,卖,新乐,敦
+2021-02-18 11:18:28.420 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[556.6441980000002, 556.6441980000002]
+2021-02-18 11:18:28.420 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:18:50.592 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:香港,采购,日本,久,光,贴,听,卖家,说,哪里,痛,贴,哪里,自已,用了,效果,真的很,久,光,镇痛,贴
+2021-02-18 11:18:50.593 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:香港,采购,日本,久,光,贴,听,卖家,说,哪里,痛,贴,哪里,自已,用了,效果,真的很,久,光,镇痛,贴
+2021-02-18 11:18:50.650 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1311.403619, 1311.403619]
+2021-02-18 11:18:50.650 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:19:16.757 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:吉,家,三代,真品,代购,索,氟,布,韦
+2021-02-18 11:19:16.757 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:吉,家,三代,真品,代购,索,氟,韦
+2021-02-18 11:19:16.798 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[688.275249, 805.8024859999999]
+2021-02-18 11:19:16.799 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:19:37.809 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:日本,久,光,7,贴,久,光,镇痛,贴
+2021-02-18 11:19:37.809 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:日本,久,光,7,贴,久,光,镇痛,贴
+2021-02-18 11:19:37.849 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[782.6359549999999, 782.6359549999999]
+2021-02-18 11:19:37.850 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:20:02.019 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:迷,儿,家,女装,都,哈,娜,同,款,衣服,短袖,又,乖,又,sao,黎,小姐,呀,魏,老爸,评测,店铺,1,海,乐神
+2021-02-18 11:20:02.019 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:牌,包,颈,维生素,尔,丹,钙,非,缓冲,腰,仁,大,筋骨,用,韦,祛,伊,药膏,万,和,甲,霏,疲劳,腱鞘,红色,naprogesic,耳,hisamitsu,池,肩部,心安,依,吡,效果,普兰,积雪,特灵,美国,现在,黄体酮,80毫克,粉尘,新版,无,损伤,自用,硼,悦,麻,四,最新款,旅游,腔,阔,瘦身,支,贴足,擦,コ,熬,帖,红花,家里,文,定制,蝎,粉刺,纯手工,家用,保湿,潮流,还剩,上海,惠,分散片,猪肚,缬,个性,鸡,也,多余,看,之,诺华,精装,珍珠,痔,手脚,抑,眉,养血,q,安神,最,高价,刺激,创口,派,3.5g,筋膜,f,磷酸酯,板,无痛,ル,散装,注,长期,寒,红血丝,雪,催,嚼,b6,指定,宝贝,促,太极,k,摧,密,戴,里,女生,小包装,魔,药材,眼药膏,木,肠炎,以下,比多,家中,闲,公,回国,面霜,三折,洛阳,高浓度,泡腾片,拯救,皮夹,尤,一片,生长,吐,gai,腹胀,劳累,哥,20元,10元,蚕茧,伐,件,内部,驱,诚,凉,虚,临期,免,20mg,药包,调,结合,12袋,2号,一件,即食,逗,60元,纸盒装,术,成,刷,思明,族,版本,火,100克,约,威猛,未用,黑蚂蚁,粉红,抗坏血酸,肾宝,eloson,芷,重组,硅胶,5.0,85g+60g,jakavi,令,暴,噻,看过来,友,5发,油膏,果盒,讲价,婕,录制,可食用,食欲,0.5x60,草乌,氧氟沙星,结果,百分百,消痛贴,款式,6g,14枚,换药,5mg,微管,张,超低价,焦虑症,股癣,4s,部,艾迪,今天,cycle,江苏,红眼,口罩,螨虫,紫色,炭,8米,蛇蝎美人,六甲,4支,拉肚子,sundrug,买给,润唇膏,大家,枕,原液,开始,呼吸,90元,很香,批,防护,氨基酸,株式会社,卧,东大,sigma,ky,改,错,祛斑霜,透析,具,见图,西安,尿频,阳,一大,荆,发情,ロ,bb,睡不着,23,把,动,95,200片,泰勒,创新,cpb,aaa,流人,疣,皮痒,要买,娥,爸妈,硝酸甘油,用钱,迷,家,女装,都,哈,娜,同,款,衣服,短袖,又,乖,又,sao,黎,小姐,呀,魏,老爸,评测,店铺,1,海,乐神
+2021-02-18 11:20:02.107 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[637.702584, 990.8967399999999]
+2021-02-18 11:20:02.108 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:20:22.325 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:畅,迪,4号,尘,螨,滴剂,粉尘,螨,滴剂
+2021-02-18 11:20:22.326 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:贴,乐,二,缓解,起,滴,式,替,胶块,足跟,椎,囊,镇,产品,丝,雾,腰腿痛,气,可以,微,朋友,紫,牛仔,泪液,突出,卖,增,修复,同志,腔,肠绞痛,按压,混,0-1,19.4g,效,风,而,リ,袋,文,图,d2,解,保胎,新鲜,糊,sulilight,先,外,之前,陈年,厂家直销,刺激,福音,个人,哺乳期,儿科,两个,200,常备,家庭,辰,病,齐,上,鸟,享,杜,xin,dan,家中,公,6片,修正,茶杯,蕾,百草,高浓度,扶,顾客,认准,罚,有货,19年,数量,乌龙,率,日货,春季,肛,禽,迷漫,睾,止痛片,咀嚼,古巴,避孕药,零号,优质,ems,大瓶,华山医院,原料药,送人,无效,童,压片,群,85g+60g,令,升级,越南,36,龄,多云,费,不多,自然,只用了,店铺,任,秘,超市,迈,脑液,酵素,现价,2,10,外包装,新货,庆,胶固,高捷,此,错,免费打,荷兰,萬,资质,纱布,片剂,dulcolax,国家队,异味,老中,性保健,胸腺,鹿角胶,1箱,透骨,益寿,强化,伴侣,精液,大片,出让,畅,迪,4号,尘,螨,滴剂,粉尘,螨,滴剂
+2021-02-18 11:20:22.377 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1654.819788, 1726.9569609999996]
+2021-02-18 11:20:22.377 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:20:35.363 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:转让,家人,剩余,yao,奥,氮,平米,氮,平,喹,硫,平,来,士,普,草酸,艾,司,西,酞,普兰,片
+2021-02-18 11:20:35.364 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:转让,家人,剩余,yao,氮,平米,氮,平,喹,硫,平,来,士,普,草酸,艾,司,西,酞,普兰,片
+2021-02-18 11:20:35.422 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1705.9224250000004, 1745.9471270000004]
+2021-02-18 11:20:35.422 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:20:56.575 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:新,日期,空勤,多维,元素,盒子,强身健体,空勤,多维,元素,片
+2021-02-18 11:20:56.576 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:新,日期,空勤,多维,元素,盒子,强身健体,空勤,多维,元素,片
+2021-02-18 11:20:56.606 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1874.3929489999998, 1874.3929489999998]
+2021-02-18 11:20:56.607 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:21:25.795 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:辉瑞,眼,膏,15,一个,2个,以上,包,邮,量大,优惠,需要,的,私聊,辉瑞,terramycin,犬,猫,通用,抗菌,眼,膏
+2021-02-18 11:21:25.796 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:贴,片,痛,迪,乳,泰国,达,小红花,专用,奥,万金油,生理,硅油,蔓,酸,官,装,云南白药,莫,药膏,金,女,药水,欣,东,普,一包,去,气雾剂,包退,儿童,北京,新款,药品,疲劳,成人,洗液,五盒,战士,流,我,便宜,清,汀,湿疹,回收,止痒,田,仑,100ml,神,铁,500g,赛,肩部,科,250ml,风湿,洁,精油,专,正,可以,女用,价,西部,用药,皮肤,婴,倩,力,复方,三代,胶东,背,治,医大,咨询,秋,增,盘,z,足,磷,菌,追风,肘关节,痤疮,跌打损伤,脑,19.4g,兴奋,男性,药物,24粒,rush,求购,红花,蛋白,2020年,文,英国,痘痘,合剂,硫磺,浸液,倍,d2,鱼,化,到期,消除,背痛,备,的人,时,精灵,补气,跑腿,糖浆,狗,人参,蛋,迷你,嗪,哦,止咳,通气,阿福,aziderm20,珍珠,玉,精华,抑,3瓶,药粉,防晒,可溶性,跟贴,鹅,还,好了,含,穴位,双眼皮,冰,人流,镁,x,已,三七,缓,f,脸,冲洗,赔,与,ejiao,干涩,货源,30片,100粒,旗舰店,rtp,礼盒装,辅料,キ,专治,軟,旅行,秒,salonpas,爆,辰,改善,灌肠,议价,物品,增发,催,b6,预约,多款,源,根,21,为,gay,商品,一箱,牙痛,免费送,戴,里,辅助,度,醒酒,牙科,东西,帮,杜,魔,灵丹,佳品,邮费,比多,dhc,康复,气血,250毫升,一些,镂空,激素,无比,奈,饿,通络,草本,羚,顾客,鸭,两用,30克,年产,瓦,益气,尤,0.5g,癖,太阳,便,滋,自购,泡茶,自提,十六,处,炼,9片,镀金,直发,真的,艺,10包,或,券,资生堂,虫,客户,角膜炎,o,西藏,川贝,纸巾,atp,胆碱钠,肛交,念珠菌,现货供应,之夜,纷,8月,高效,蛋白酶,快递,肠胃,羧甲基纤维素,测试,大量,勿扰,制霉菌素,青少年,蟾,乳腺,出血,连,止痛片,欧美,犀,j,七星,说明,tigerbalm,角,术,急,零号,ab5,欲望都市,没用过,素材,10克,火,孟加拉,流泪,老字号,去年,约,马来,销售,brintellix,大米,胃痛,条,华润,疾病,50支,得来,ddisssa,秋冬季,咳嗽药,总,漱口水,造,桃子,一周,40a,80枚,哟,噻,附属,迅速,饲料,友,耐,求,日用品,除异味,疮,慢,保安,管用,明星,砂轮,具体,短裤,骨化,美国进口,大人,合集,玉容,款式,十包,全球,不好,服装,海报,日常,里面,非常好,断,饮品,一对一,萌,2017年,多多,4s,连锁,寶,一体,亿,玻,4000,圆,胶体,三金,打关节,也是,gt,盖平,2ml10,2,10,消炎药,霍,17年,坠,东东,归,抢,天天,脂肪乳,持续,8米,雌,血栓,国标,4支,花红,镇痛剂,街,通风,一点,石药,几乎,环丙沙星,成品,成分,酚酞,防护,胶固,生长因子,然,不懂,88,属于,上了,润肤,招,龟甲胶,空军,香气,进补,现场,用不了,股,豆,3袋,國,交,是的,毛孔,麻木,一个月,小刀,菴,润肤乳,同学,碘化钾,症状,订单,机,辉,消食,甲磺酸,1g,国家队,追,代言,橙,切,祛风除湿,24包,戊酸,血小板,柯,漂,金黄,发情,胸腺,嘌呤,23,另外,白兔,能吃,穿心莲,藏,梗,完全,68,45包,干扰素,朵,桌面,问,95,松本,棕,2012年,5kg,帮助,煤老板,矬,无货,女士香水,新型,鸽子,大连,摔伤,流人,華,要买,仿真,润肺,a-ok,变,座,主要,用量,15片,西班牙,障碍,超高,醋,九款,宿,搞活动,辉瑞,眼,膏,一个,2个,以上,包,优惠,的,私聊,辉瑞,terramycin,犬,猫,通用,抗菌,眼,膏
+2021-02-18 11:21:25.910 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1950.2491060000002, 2101.811408]
+2021-02-18 11:21:25.911 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:21:55.818 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:官方,筋骨,五,送,二,十,送,五,痛,康,包,邮,筋骨,痛,康,鹿血,蛇,蚁,胶囊
+2021-02-18 11:21:55.820 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:官方,筋骨,五,送,二,十,送,五,痛,康,包,邮,筋骨,痛,康,鹿血,蛇,蚁,胶囊
+2021-02-18 11:21:55.955 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1901.9318199999998, 1901.9318199999998]
+2021-02-18 11:21:55.955 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:22:15.541 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:日本,价格,实惠,佐藤,制药,nazal,鼻炎,喷雾剂
+2021-02-18 11:22:15.542 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:日本,价格,实惠,佐藤,制药,nazal,鼻炎,喷雾剂
+2021-02-18 11:22:15.605 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[700.656622, 700.656622]
+2021-02-18 11:22:15.606 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:22:42.647 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:一正,颗,子,五味,人,60袋,补益,安神,神经衰弱,病后,体,虚,健,忘不,眠,人参,五味子,颗粒
+2021-02-18 11:22:42.648 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:一正,颗,子,五味,人,60袋,补益,安神,神经衰弱,病后,体,虚,健,忘不,眠,人参,五味子,颗粒
+2021-02-18 11:22:42.681 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[398.488171, 398.488171]
+2021-02-18 11:22:42.681 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:23:02.590 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:官,网,筋骨,痛,康,鹿血,蛇,蚁,胶囊,买,五,送,二,买,十,送,五,另,送,黑,膏药,如,假,包退,筋骨,痛,康,鹿血,蛇,蚁,胶囊
+2021-02-18 11:23:02.591 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:关节痛,耳,栓,8ml,丙酸,止,效果,合,婴幼儿,0-1,防伪,急慢性,调理,サ,适合,屈臣氏,春,滋,自提,r,炼,蚕茧,什么,性用品,糖尿,蛋白酶,禽,迷漫,碘酒,85g+60g,bufferin,别人,柳,远,白条,14枚,内有,准备,但,袋子,买到,来了,枕,完整,萬,痊愈,一大,嘧,穿心莲,keifei,5kg,擁,燥湿,滚,主要,官,网,筋骨,痛,康,鹿血,蛇,蚁,胶囊,买,五,送,二,买,十,送,五,另,送,黑,膏药,如,假,包退,筋骨,痛,康,鹿血,蛇,蚁,胶囊
+2021-02-18 11:23:02.651 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[3239.305350000001, 3239.305350000001]
+2021-02-18 11:23:02.652 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:23:21.104 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:日本,sato,佐藤,鼻炎,水,佐藤,制药,nazal,鼻炎,喷雾剂
+2021-02-18 11:23:21.105 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:邮,滴剂,尔,新,腰痛,止痛,滴,拉,东,原,甲,帕,保真,肤,湿疹,宝,100ml,模范,正宗,龙,一瓶,超人,氢,国内,腰间盘突出,犬,在,天然,手肘,浓缩,是,美国,500克,套装,男女,买了,盛京,悦,16,森,现,桂,消炎剂,块,单,混,酯,ラ,可爱,生命,泊,コ,保养,咪,卵巢,稀释,这个,后庭,壮,莎,多余,做,挫,补肾,fx,精装,先,半月板,长裙,角膜,之前,尿酸,肩关节,跟贴,消毒,最,u,冰,适用,几盒,人流,15ml,小孩,200,牙膏,家庭,オ,注,参天,黑头,源,桐,秦,型号,免费送,20片,血塞通,水晶,极速,凤,80,真菌,高浓度,丙肝,淡,二代,江浙沪,法师,万能,废料,撕,形象,epidaza,短发,生长,一套,腹胀,木瓜,estramon,哥,男人,10元,麻醉,创意,龟,良心,铁皮,回家,临期,浸,系,补品,锉,直营,3片,率,屋,鼻涕,头晕,成功率,制霉菌素,寄,腾,少女,丁克,成,话,鳄鱼皮,2022年,年老,自取,工具,雄性,分类,胀,h,存,肚脐,总,我家,7盒,哈,301,8片,寿,子宫,乌发,面,貼,提,秋冬,35元,砂轮,菇,氧氟沙星,越,付,提取物,堕胎,消痛贴,衍,皮肤科,体液,张,迈,奇正,明年,4s,保证质量,300ml,艾迪,人气,人血白蛋白,内有,现价,准备,三个,坠,60毫升,袋子,石榴,耐用,脂肪乳,预售,有的,杆,第二,40包,批,natco,经营,醌,山西,果冻,姜,惊风,催情,改,sofosbuvir,55包,专门,面交,四件套,订单,辉,健胃,fdsfd,粮食,嘧,type,想家,类风湿性,bb,也有,桌,不足,龙华,三支,轮,擁,没开,之王,怕,删除,華,白带,犀牛,岁了,可提供,磷霉素,用量,并不,用钱,强身,批发价,日本,sato,佐藤,鼻炎,水,佐藤,制药,nazal,鼻炎,喷雾剂
+2021-02-18 11:23:21.173 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1107.2788019999996, 1176.943495]
+2021-02-18 11:23:21.174 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:23:46.327 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:日本,久,光,膏药,40mg,7枚,装,2,包起,售,久,光,镇痛,贴
+2021-02-18 11:23:46.327 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:日本,久,光,膏药,40mg,7枚,装,2,包起,售,久,光,镇痛,贴
+2021-02-18 11:23:46.370 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[904.2197440000001, 904.2197440000001]
+2021-02-18 11:23:46.370 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:24:07.477 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:银,浆,金水,钯,碳,氧化,钯,回收,硝酸银
+2021-02-18 11:24:07.477 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:银,浆,金水,钯,碳,氧化,钯,回收,硝酸银
+2021-02-18 11:24:07.511 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1533.4859389999997, 1533.4859389999997]
+2021-02-18 11:24:07.511 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:24:24.245 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:自己,日本,人肉,带回,nazal,佐藤,鼻炎,喷,剂,佐藤,制药,nazal,鼻炎,喷雾剂
+2021-02-18 11:24:24.245 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:自己,日本,人肉,带回,nazal,佐藤,鼻炎,喷,剂,佐藤,制药,nazal,鼻炎,喷雾剂
+2021-02-18 11:24:24.308 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1359.8462790000003, 1359.8462790000003]
+2021-02-18 11:24:24.308 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:24:41.163 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:官,网,正品,筋骨,痛,康,买,5,送,2,买,10,送,5,送,十六,贴,包,邮,五盒,起,拍,筋骨,痛,康,鹿血,蛇,蚁,胶囊
+2021-02-18 11:24:41.164 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:官,网,正品,筋骨,痛,康,买,5,送,2,买,10,送,5,送,十六,贴,包,邮,五盒,起,拍,筋骨,痛,康,鹿血,蛇,蚁,胶囊
+2021-02-18 11:24:41.210 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[2375.133704, 2375.133704]
+2021-02-18 11:24:41.210 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:25:09.036 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:日本,膏,贴,肩,腰痛,现货,腰,腿,腰椎,颈椎,一三,共,贴膏,缓解,本土,关节,贴,冷,感,久,光,镇痛,贴
+2021-02-18 11:25:09.036 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:日本,膏,贴,肩,腰痛,现货,腰,腿,腰椎,颈椎,一三,共,贴膏,缓解,本土,关节,贴,冷,感,久,光,镇痛,贴
+2021-02-18 11:25:09.092 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1345.487265, 1345.487265]
+2021-02-18 11:25:09.092 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:25:36.219 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:撒,隆,巴,斯,140片,日本,贸易公司,海运,货源,久,光,镇痛,贴
+2021-02-18 11:25:36.220 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:撒,隆,巴,斯,140片,日本,贸易公司,海运,货源,久,光,镇痛,贴
+2021-02-18 11:25:36.260 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1051.8120319999998, 1051.8120319999998]
+2021-02-18 11:25:36.261 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:25:59.880 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:胶囊,脑,血,康,胶囊
+2021-02-18 11:25:59.880 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:胶囊,脑,血,康,胶囊
+2021-02-18 11:25:59.912 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[31.755268, 31.755268]
+2021-02-18 11:25:59.913 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:26:18.664 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:日本,网,红,小,绿,瓶,生发,液,包,邮,全新,久,光,镇痛,贴
+2021-02-18 11:26:18.664 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:日本,网,红,小,瓶,生发,液,包,邮,全新,久,光,镇痛,贴
+2021-02-18 11:26:18.720 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[620.758113, 627.8575320000001]
+2021-02-18 11:26:18.721 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:26:36.136 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:东阿,阿胶,500g,福,胶,牌,阿胶,375g,福,牌,阿胶,阿,胶片
+2021-02-18 11:26:36.137 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:东阿,阿胶,500g,福,胶,牌,阿胶,375g,福,牌,阿胶,阿,胶片
+2021-02-18 11:26:36.175 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1067.942028, 1067.942028]
+2021-02-18 11:26:36.176 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:26:56.664 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:自制,纯手工,福,牌,阿胶,膏,福,牌,阿胶,阿,胶片
+2021-02-18 11:26:56.664 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:自制,纯手工,福,牌,阿胶,膏,福,牌,阿胶,阿,胶片
+2021-02-18 11:26:56.698 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[915.9920640000001, 915.9920640000001]
+2021-02-18 11:26:56.698 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:27:11.143 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:日本,膏,贴,萨,隆,斯,颈,肩,腰椎,腿,关节,腱鞘,手肘,痛,跌,打,扭伤,撒,隆,巴,贴膏,久,光,镇痛,贴
+2021-02-18 11:27:11.143 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:日本,膏,贴,萨,隆,斯,颈,肩,腰椎,腿,关节,腱鞘,手肘,痛,跌,打,扭伤,撒,隆,巴,贴膏,久,光,镇痛,贴
+2021-02-18 11:27:11.201 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1566.6814970000003, 1566.6814970000003]
+2021-02-18 11:27:11.201 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:27:30.022 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:阿,东,250g,东阿,阿胶
+2021-02-18 11:27:30.022 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:阿,东,250g,东阿,阿胶
+2021-02-18 11:27:30.060 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[587.3878449999997, 587.3878449999997]
+2021-02-18 11:27:30.061 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:27:49.256 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:成人,保健,男,用品,持久,一粒,壮,大增,粗,速效,助,勃,增,硬,增,大增,粗硬,状,延长,美国,魔,根
+2021-02-18 11:27:49.256 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:成人,保健,男,持久,一粒,壮,大增,粗,速效,助,勃,增,硬,增,大增,粗硬,状,延长,美国,魔,根
+2021-02-18 11:27:49.290 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[656.682281, 676.22834]
+2021-02-18 11:27:49.291 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:28:15.935 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:印度,双,效,pian,希,爱力,他,达,拉,非,片
+2021-02-18 11:28:15.936 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:印度,双,效,pian,希,爱力,他,达,拉,非,片
+2021-02-18 11:28:15.971 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1403.4617469999998, 1403.4617469999998]
+2021-02-18 11:28:15.971 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:28:25.404 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:付邮,送,云南白药,气雾剂
+2021-02-18 11:28:25.405 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:送,云南白药,气雾剂
+2021-02-18 11:28:25.452 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[419.8439860000001, 450.5486670000001]
+2021-02-18 11:28:25.452 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:28:43.704 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:药品,买,错了,医院,不退,包装,没,拆,2021年,10月,到期,转给,有,需,盐酸,索,他,洛,尔,片
+2021-02-18 11:28:43.704 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:药品,买,错了,医院,不退,包装,没,拆,2021年,10月,到期,转给,有,需,盐酸,索,他,洛,尔,片
+2021-02-18 11:28:43.762 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[153.705426, 153.705426]
+2021-02-18 11:28:43.763 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:29:00.023 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:德国,生命,能量,贴,原装,正品,瑞士,诺华,荷尔蒙,贴,女性,更新期,保养,贴,雌二醇,缓释,透,皮,贴片
+2021-02-18 11:29:00.023 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:德国,生命,能量,贴,原装,正品,瑞士,诺华,荷尔蒙,贴,女性,更新期,保养,贴,雌二醇,缓释,透,皮,贴片
+2021-02-18 11:29:00.072 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[2196.7781900000004, 2196.7781900000004]
+2021-02-18 11:29:00.072 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:29:14.421 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:沈阳,盛京,医院,医大,二,院,四合,粉,痱子粉,福,牌,阿胶,阿,胶片
+2021-02-18 11:29:14.422 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:沈阳,盛京,医院,医大,二,四合,粉,痱子粉,福,牌,阿胶,阿,胶片
+2021-02-18 11:29:14.463 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[297.007516, 393.153431]
+2021-02-18 11:29:14.464 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:29:32.949 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:可,威,磷酸,奥,司,他,韦,胶囊
+2021-02-18 11:29:32.949 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:可,威,磷酸,奥,司,他,韦,胶囊
+2021-02-18 11:29:32.984 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[717.683232, 717.683232]
+2021-02-18 11:29:32.985 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:29:45.268 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:如果,你,扭伤,肌肉,拉伤,肩周炎,腰间盘突出,关节痛,腰痛,腿,痛,久,光,镇痛,贴
+2021-02-18 11:29:45.268 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:如果,你,扭伤,肌肉,拉伤,肩周炎,腰间盘突出,关节痛,腰痛,腿,痛,久,光,镇痛,贴
+2021-02-18 11:29:45.326 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[806.7868579999997, 806.7868579999997]
+2021-02-18 11:29:45.326 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:30:03.972 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:u,先,试,珍视,明,滴眼液,雅,漾,爽肤水,羟,丙,甲,纤维素,滴眼液
+2021-02-18 11:30:03.973 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:东阿,胶囊,五,感,胶,洗,一三,钱包,红,型,艾,lycee,筋,硫酸,出,永久,开,氯化钠,德国,替,跌,胃,直,多,葡萄,硼酸,疲劳,七,腱鞘,购,硅,鼻塞,味,hellip,仑,双,全,男,铁,肉痛,厂,硝酸银,日,炎,雷,核,沙,雾化,考,施,女性,抗菌,比,神器,妮,肾,丰,好用,紫,二甲,软,入,现在,短款,敷脸,男女,粉尘,泪液,浆,太和,otc,服,同志,麦,消炎剂,停,绿,水洗,能,产后,用水,痛风,效,半斤,筋肉,可爱,满,宠物,文,12ml,纯手工,老中医,轻,倍,人工,卵巢,配,陈,早孕,上海,滋补,手腕,再,猪肚,伏,漱口,全国,菌素,步长,时,敷贴,药用,黑色,做,蝮,脉,脚气,vc,护眼,牛,玉,佳,温热,肚,号,剩下,消毒,最,正骨,好了,个人,补气血,结,40粒,玫,王,脱皮,1岁,母,钱,醋酸,综合,协和,硬币,中药,批发,疤,赔,ejiao,乙醇胺,手工,100粒,都是,肩周炎,溴,专治,花眼,salonpas,2ml,牙膏,常备,6瓶,尘,都有,解药,公司,五包,入手,低血糖,120,铂,咀,到货,0.03,强效,免费送,特效药,冷敷,度,醒酒,适合,藤,50克,培,得,通便,知道,涂,脚跟,红白,凤,比多,修正,dhc,筒,道,制作,用不,購,涂抹,標,女式,生乳,太多,金维他,患者,真菌,三折,蘑菇,毒素,毛,2十,扶,诚信,限量,都可以,yh,￥,超薄,瓦,牌子,运动,三层,太阳,本镇,生长,生物,抗疲劳,任何,睡觉,强力,120g,买回来,中国,吐,腹胀,泉,120瓶,修护,乳酸菌,真的,适用于,限定版,牛皮癣,什么,兔,苦参,手机,痛痛,良心,营养液,atp,性用品,糯米,黄金,质量,不适,测试,钡餐,400,乳腺,出血,16年,屁股,亮,20支,零售,36片,纯正,急,古巴,罗浮山,沃,外阴,石膏,骨质,腰肌劳损,红瓶,整箱,1mg,生活,20粒,茵,8行,总,防暑,仙女,80mg,我家,芷,灯,摆件,苄,姬,特明,植,一周,暴,301,在家,带走,制剂,冰片,mm,亏本,肌肤,疮,含片,外涂,撒旦,慢,好货,宠物用品,不能,民,西施,即,神农,一扫光,菇,吉林,老年,越,二甲双胍,采,白头,甩,自然,都在,汤,几,氨酸,擦拭,湿润,解痛,断,以内,气质,奇正,脑液,yi,私人,焦虑症,皲裂,桑,部,人血白蛋白,干眼症,今天,眉纹,买入,中暑,消炎药,所需,gf,日韩,纯度,水粉,换钱,麦片,人民医院,拉肚子,斗,黄得,丁香,华山,周边,街,不知道,几乎,呼吸,85,90元,500ml5,2015年,冬虫夏草,无色,附近,七彩,期,保健用品,属于,铁拐李,個,一半,空军,花露水,进补,高捷,紫河车,3袋,國,次,补骨脂,晕车药,小刀,菴,平价,同学,taiyao,症状,片剂,糜烂,regrowth,30m,销量,祛风除湿,枚,啶,荆,红花油,偏远地区,详细,出来,做了,空手,不干胶,幼儿,把,240g,本品,芽,完全,抗氧化,不同,da,深,蔻,聚,指,大腿,胃酸,地区,三合,一天,qw,帮助,男朋友,24g,送给,穿,上班,乳酸杆菌,买过,aaa,减轻,疣,中美,仿真,小小,抽屉,滚,伴侣,缺,boots,化妆水,谁要,用钱,6米,搞活动,u,先,珍视,滴眼液,雅,漾,爽肤水,羟,丙,纤维素,滴眼液
+2021-02-18 11:30:04.059 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1748.8092239999999, 1773.0500720000002]
+2021-02-18 11:30:04.059 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:30:25.193 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:全新,fresh,玫瑰,保湿,面霜,面膜,中,小样,旅行装,佐藤,制药,nazal,鼻炎,喷雾剂
+2021-02-18 11:30:25.194 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:全新,fresh,玫瑰,保湿,面霜,面膜,中,小样,旅行装,佐藤,制药,nazal,鼻炎,喷雾剂
+2021-02-18 11:30:25.247 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[804.8297869999997, 804.8297869999997]
+2021-02-18 11:30:25.248 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:30:41.227 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:虎,标,风,油膏,虎,标,万金油
+2021-02-18 11:30:41.227 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:虎,标,风,油膏,虎,标,万金油
+2021-02-18 11:30:41.262 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[846.4223190000004, 846.4223190000004]
+2021-02-18 11:30:41.262 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:30:52.239 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:阿胶,盒子,东阿,阿胶
+2021-02-18 11:30:52.239 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:阿胶,盒子,东阿,阿胶
+2021-02-18 11:30:52.272 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[403.5591455, 403.5591455]
+2021-02-18 11:30:52.272 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:31:12.893 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:日本,包,邮,大,鹏,温,感,肩,周,颈椎,腰间盘突出,hisamitsu,久,光,膏,贴膏药,7,贴,久,光,镇痛,贴
+2021-02-18 11:31:12.894 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:片,丸,nazal,鼻,迪,诺,滴眼液,仁,喷,共,缓解,冷,腰痛,蚁,关节痛,气雾剂,60ml,健,三盒,3盒,隐形,蓝,通,腰疼,低价,代,战士,栓,葡萄糖,140枚,士,低,犬,气,普兰,施,inhalat,5盒,草酸,芬,痛经,丰,tiger,钠,500克,每,睾酮,三代,苗家,g,突出,步,葫芦,肠绞痛,单,yao,长红,头痛,100mg,干,植物,跌打损伤,0,七夕,你,萘,保养,调情,家里,自制,畅,樱花,氧,瘦,滋补,用了,分散片,纯色,鸡,发热,紫竹,脚,八,礼盒,蝮,回来,长裤,转手,精装,燥,兽药,活血,之前,可溶性,养血,勃,正版,氏,芩,娃,月,晒,泌,领,胃药,筋膜,批发,疤,儿科,鸡鸭,运费,珍贵,新品,新生儿,肩周炎,rtp,京东,可查,容,オ,红血丝,物品,催,皮炎,闽南话,绿色,源,零食,非标,功能,一起,w,过期,解酒,密,兴奋性,猫咪,适合,眼镜,压,培,佳品,广东省,反应,前列腺,姨妈,生乳,真菌,宣传,吸引,夹子,感兴趣,100元,48支,最好,紫珠,洗面奶,羊,手术,私,限量,腹,肾上腺素,薰衣草,腰酸,工艺品,撕,圣,天津,生发剂,麒麟,退烧,增强,泡茶,表,磨砂,邮出,298,乳酸菌,蚕茧,一力,50mg,或,试用,妇幼,武汉市,干净,废,打喷嚏,atp,彩,护膝,卡通,ar,屋,蛋白酶,aziderm,们,春季,16年,屁股,套餐,咀嚼,第三代,族,方便,藓,60包,ems,雾气,自动,刺绣,扩,2件,母狗,天亮,润滑液,郵,重组,桃花,姬,特明,桃子,植,铅,龙虎,大力,最后,首选,升级,呕吐,越南,求,莨菪,君,同济,戈,疮,焊条,镂,年,费,草乌,试用装,退换,佝偻病,3个,微管,冠,养胃,abcd,麝香,秀,淋,了解,征,输液,圆,三金,柔,现价,十三,21年,河,积,4g,富,28片,钠盐,月底,强心,试剂盒,马克,斗,城,大家,儿子,枕,成品,留,bbbsa,保湿霜,色素,睫毛膏,揉捏,保健用品,b1,空军,力量,紫河车,烫,120元,润肤乳,30m,云母片,啶,刀,不干胶,金黄,mf,胸腺,有用,芦荟胶,绞股蓝,保住,口碑,keifei,95,携带,棕,cream,qw,勾,留学,2019女,针管,删除,麦粒肿,性病,摔伤,玻璃杯,武器,买过,疣,伴侣,neck,1.76,刹,西班牙,6米,cool40&alpha,日本,包,邮,大,鹏,温,感,肩,周,腰间盘突出,hisamitsu,久,光,膏,贴膏药,7,贴,久,光,镇痛,贴
+2021-02-18 11:31:12.993 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1315.8217479999998, 1432.0067410000001]
+2021-02-18 11:31:12.994 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:31:35.572 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:西甲,硅油,购,于,北京,儿童医院,西甲,硅油,乳剂
+2021-02-18 11:31:35.572 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:西甲,硅油,购,于,北京,西甲,硅油,乳剂
+2021-02-18 11:31:35.606 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1120.7933309999996, 1134.8535279999996]
+2021-02-18 11:31:35.607 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:31:47.954 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:日本,光,灸,膏,贴,镇痛,颈椎,原装,肩,筋骨,肩关节,腿,护肩,大,鹏,现货,肘关节,久,光,镇痛,贴
+2021-02-18 11:31:47.955 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:丹,地,腰椎,斯,印度,生发,洗脸,北京,糖酸,鲨,c,咳嗽,消,硅,止痒,平,50g,退热,可以,infacol,倩,针,肝,白色,ラ,求购,血,家里,止血,减肥,云南,小盒,消除,保胎,情趣,硫酸铜,莎,99,蝮,瘀,玉,润滑油,玛,12,50粒,调理,客服,申,蚊,50ml,5ml,salonpas,时候,辰,每天,韩国,钻,甘油,公司,宝贝,平安,太极,米尔,桐,曼秀雷敦,鸟,20片,棒,塑,药材,处方药,儿童医院,闲,容量,11,日亚,百草,限量版,db,途,眼线,清仓,年产,epidaza,皮肤病,真伪,自提,10包,狗狗,100毫升,龟,川贝,错了,旅,护膝,肛交,用款,3片,之夜,东京,鼻涕,aziderm,靠手,400,释,塑料瓶,流水,古巴,药片,雾气,自动,h,老年人,天亮,抗坏血酸,vita40,抗病毒,玻璃瓶,呕吐,100包,10毫升,亏本,发包,讲价,左右,解决,开过,菇,20盒,眼影,铋,眩晕,牡蛎,皮肤科,氨酸,不好,yen,海报,1套,筛,礼品盒,cas,人气,沐浴露,青年,自营,但,江苏,俩,gf,天天,15支,gao,造型,15盒,人在,惊,ta,光光,发育,几乎,手足,樟,很香,白癜风,后来,株式会社,花露水,瘟,龙城,是的,小片,嘧,荆,mf,腱鞘炎,奶嘴,桌,设计,记录,闪耀,多出,日式,留学,橘,吃过,还是,肚子,保正,日本,光,灸,膏,贴,镇痛,颈椎,肩,筋骨,肩关节,腿,护肩,大,鹏,现货,肘关节,久,光,镇痛,贴
+2021-02-18 11:31:48.075 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1174.21527, 1203.887218]
+2021-02-18 11:31:48.076 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:32:09.305 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:剂,内,肽,型,养,营,百,普,素,短,肽,型,肠,内,营养,剂
+2021-02-18 11:32:09.305 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:剂,内,肽,型,养,营,百,普,素,短,肽,型,肠,内,营养,剂
+2021-02-18 11:32:09.340 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[2003.978352, 2003.978352]
+2021-02-18 11:32:09.341 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:32:22.505 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:印度,特色,吉,第二代,三代,非,布,司,他,直发,全球,索,氟,布,韦
+2021-02-18 11:32:22.505 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:印度,特色,吉,第二代,三代,布,司,他,直发,全球,索,氟,布,韦
+2021-02-18 11:32:22.552 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[554.3933780000001, 902.714555]
+2021-02-18 11:32:22.553 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:32:42.748 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:告别,前任,正品,日本,久,光,消炎,镇痛,膏药,久,光,镇痛,贴
+2021-02-18 11:32:42.748 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:告别,前任,正品,日本,久,光,消炎,镇痛,膏药,久,光,镇痛,贴
+2021-02-18 11:32:42.790 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[848.4608039999999, 848.4608039999999]
+2021-02-18 11:32:42.790 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:32:59.143 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:思,梦,还,思,梦,思,艾,司,唑,仑,片
+2021-02-18 11:32:59.143 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:思,梦,还,思,梦,思,艾,司,唑,仑,片
+2021-02-18 11:32:59.173 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[480.17404500000004, 480.17404500000004]
+2021-02-18 11:32:59.174 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
+2021-02-18 11:33:15.998 | DEBUG    | src.problems.GeneticAlgorithm:run:44 - [sample]pri:跌,打,肩部,第,一三,共,膏,贴,关节痛,伤痛,止痛,贴,疼痛,国内,现货,腰背,大,鹏,肩,周,久,光,镇痛,贴
+2021-02-18 11:33:15.998 | DEBUG    | src.problems.GeneticAlgorithm:run:45 - [sample]aug:跌,打,肩部,第,一三,共,膏,贴,关节痛,伤痛,止痛,贴,疼痛,国内,现货,腰背,大,鹏,肩,周,久,光,镇痛,贴
+2021-02-18 11:33:16.059 | DEBUG    | src.problems.GeneticAlgorithm:run:47 - [sample]score:l[1370.45189, 1370.45189]
+2021-02-18 11:33:16.060 | DEBUG    | src.problems.GeneticAlgorithm:run:48 - [sample]
+
