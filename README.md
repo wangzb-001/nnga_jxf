@@ -11,7 +11,7 @@
 
 NSGAII-NN为基于神经网络的多目标NSGA-II遗产算法，运行函数：nsgaii.py
 
-GA为基于神经网络的单目标遗产算法，运行函数：Test.py
+GAs为基于神经网络的单目标遗产算法，运行函数：Test.py
 
 GAES为利用神经网络遗产算法，训练多标签分类模型，依赖elasticsearch服务引擎，并配置。Train.py、Test.py
 
